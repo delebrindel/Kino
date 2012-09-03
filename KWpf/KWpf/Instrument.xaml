@@ -1,0 +1,16 @@
+﻿<Window x:Name="Instrumentos" x:Class="KWpf.Instrument"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:my="clr-namespace:KBasic;assembly=KBasic"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Kino" Height="735" Width="700" Loaded="WindowLoaded" Closing="Window_Closing" Topmost="True" WindowStartupLocation="CenterScreen" WindowState="Maximized" WindowStyle="ThreeDBorderWindow">
+    <Grid>
+        <Expander Name="Expansor"  IsEnabled="True">
+            <my:SensorChooser Name="kinectSensorChooser" Height="200"/>
+        </Expander>
+        <StackPanel Orientation="Vertical" Background="Transparent">
+            <Viewbox Grid.Row="1" Stretch="Uniform" HorizontalAlignment="Center">
+                <Image Name="Esqueleto" Width="640" Height="480" HorizontalAlignment="Center"/>
+            </Viewbox>
+        </StackPanel>
+    </Grid>
+</Window>

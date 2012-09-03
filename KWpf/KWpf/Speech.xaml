@@ -1,0 +1,12 @@
+﻿<Window x:Class="KWpf.Speech"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Speech" Height="300" Width="300">
+    <Grid>
+        <StatusBar>
+            <TextBox Name="textBox1" Text="...."/>
+            <TextBox Name="textBox2" Text=" Wakka"/>
+            <TextBox Name="textBox3" Text="-----"/>
+        </StatusBar>
+    </Grid>
+</Window>

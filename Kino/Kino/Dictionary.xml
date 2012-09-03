@@ -1,0 +1,24 @@
+<grammar version="1.0" xml:lang="en-US" root="rootRule" tag-format="semantics/1.0-literals" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="rootRule">
+    <one-of>
+      <item>
+        <tag>BRUSH</tag>
+        <one-of>
+          <item> brush </item>
+          <item> paint </item>
+          <item> paintbrush </item>
+          <item> cheese </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>ERASER</tag>
+        <one-of>
+          <item> erase </item>
+          <item> eraser </item>
+          <item> erasing </item>
+        </one-of>
+      </item>
+      </item>
+    </one-of>
+  </rule>
+</grammar>

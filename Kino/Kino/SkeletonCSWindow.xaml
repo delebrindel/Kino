@@ -1,0 +1,67 @@
+﻿<Window x:Name="CSkeleton" x:Class="Kino.SkeletonCSWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:kt="clr-namespace:Microsoft.Samples.Kinect.WpfViewers;assembly=Microsoft.Samples.Kinect.WpfViewers"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:toolkit="clr-namespace:Microsoft.Kinect.Toolkit;assembly=Microsoft.Kinect.Toolkit"
+        xmlns:mskt="clr-namespace:Microsoft.Kinect.Toolkit;assembly=Microsoft.Kinect.Toolkit"
+    Title="Kino" Height="735" Width="1280" Loaded="WindowLoaded" Closing="WindowClosing" Topmost="True" WindowStartupLocation="CenterScreen" WindowState="Normal" WindowStyle="ThreeDBorderWindow" SizeToContent="WidthAndHeight">
+
+    <Window.Resources>
+        <SolidColorBrush x:Key="MediumGreyBrush" Color="#ff6e6e6e"/>
+        <SolidColorBrush x:Key="KinectPurpleBrush" Color="#ff52318f"/>
+        <SolidColorBrush x:Key="KinectBlueBrush" Color="#ff00BCF2"/>
+        <Style TargetType="{x:Type Button}" x:Key="SnapshotButton" >
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Grid>
+                            <StackPanel Orientation="Horizontal" Background="Transparent">
+                                <TextBlock x:Name="SnapText" Text="{TemplateBinding Content}" TextAlignment="Left"  VerticalAlignment="Center" Foreground="{StaticResource KinectPurpleBrush}" FontSize="15" />
+                                <Grid Margin="9,0,0,0">
+                                    <Image x:Name="SnapNormal" Source="Images\SnapNormal.png" Stretch="None" HorizontalAlignment="Center"/>
+                                    <Image x:Name="SnapHover" Source="Images\SnapHover.png" Stretch="None" HorizontalAlignment="Center" Visibility="Collapsed"/>
+                                </Grid>
+                            </StackPanel>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="true">
+                                <Setter Property="Visibility" Value="Collapsed" TargetName="SnapNormal"/>
+                                <Setter Property="Visibility" Value="Visible" TargetName="SnapHover"/>
+                                <Setter Property="Foreground" Value="{StaticResource KinectBlueBrush}" TargetName="SnapText"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <Grid Name="layoutGrid" Margin="10 0 10 0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <toolkit:KinectSensorChooserUI x:Name="SensorChooserUI" IsListening="True"  HorizontalAlignment="Center" VerticalAlignment="Top" />
+        <DockPanel Grid.Row="1" HorizontalAlignment="Stretch">
+        <!--<Viewbox Grid.Row="1" Stretch="Uniform" HorizontalAlignment="Left"> -->
+            <Image Name="Image" Width="640" Height="480"/>
+            <Image Name="Esqueleto" Width="640" Height="480"/>
+        <!-- </Viewbox-->
+        </DockPanel>
+        <StatusBar Grid.Row="2" HorizontalAlignment="Stretch" Background="#808CFF" Name="BotonesKin" VerticalAlignment="Bottom" Margin="0 0 0 5">
+            <Button Content="Subir Kinect" Height="Auto" HorizontalAlignment="Right" VerticalAlignment="Center" Name="VP_B_SubirKin" Margin="25 0 0 0" Click="ButtonUpClick" />
+            <Button Content="Centrar Kinect" Height="Auto" HorizontalAlignment="Right" VerticalAlignment="Center" Name="VP_B_CentrarKin" Margin="25 0 0 0" Click="ButtonCenterClick" />
+            <Button Content="Bajar Kinect" Height="Auto" HorizontalAlignment="Right" VerticalAlignment="Center" Name="VP_B_BajarKin" Margin="25 0 0 0" Click="ButtonDownClick" />
+        </StatusBar>
+        <StatusBar Grid.Row="3" HorizontalAlignment="Stretch" Name="ControlesKin" Background="#E6E8FF" VerticalAlignment="Bottom">
+            <CheckBox Name="VP_Ch_Sentado" VerticalAlignment="Center" HorizontalAlignment="Left" Checked="CheckBoxSeatedModeChanged" Unchecked="CheckBoxSeatedModeChanged">Modo Sentado</CheckBox>
+            <TextBlock Name="VP_LS_Alt" VerticalAlignment="Center" HorizontalAlignment="Left"  Margin="20 0 0 0">Altura Del Kinect</TextBlock>
+            <TextBlock Name="VP_L_Alt"  VerticalAlignment="Center" HorizontalAlignment="Left" Margin="20 0 0 0">--------</TextBlock>
+        </StatusBar>
+    </Grid>
+</Window>

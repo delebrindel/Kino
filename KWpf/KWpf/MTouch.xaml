@@ -1,0 +1,26 @@
+﻿<Window x:Class="KWpf.MTouch"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:my="clr-namespace:KBasic;assembly=KBasic"
+        Title="Window1" Height="300" Width="300" SizeToContent="WidthAndHeight">
+    <StackPanel>
+        <Expander Name="Expansor" IsEnabled="False" IsExpanded="False">
+            <my:SensorChooser Name="SensorChooser"/>
+        </Expander>
+        <StatusBar Background="White">
+            <Image Name="video" Height="60" Width="80"/>
+            <CheckBox Margin="20" Name="LeftHand" Content="Modo Zurdo"/>
+            <CheckBox Name="VPai_Ch_Seated" IsChecked="True " Content="Modo Sentado"/>
+        </StatusBar>
+        <StatusBar>
+            <TextBlock Name="L_RHandX" FontSize="32" Text="---"/>
+            <TextBlock Name="L_RHandY" FontSize="32" Text="---"/>
+            <TextBlock Name="L_RHandZ" FontSize="32" Text="---"/>
+        </StatusBar>
+        <StatusBar>
+            <TextBlock Name="L_LHandX" FontSize="32" Text="---"/>
+            <TextBlock Name="L_LHandY" FontSize="32" Text="---"/>
+            <TextBlock Name="L_LHandZ" FontSize="32" Text="---"/>
+        </StatusBar>
+    </StackPanel>
+</Window>

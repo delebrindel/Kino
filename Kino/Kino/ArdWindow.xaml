@@ -1,0 +1,61 @@
+﻿<Window x:Name="Arduino" x:Class="Kino.ArdWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mskt="clr-namespace:Microsoft.Kinect.Toolkit;assembly=Microsoft.Kinect.Toolkit"
+    Title="Kino" Height="300" Width="1000" Loaded="WindowLoaded" Closing="Window_Closing" Topmost="True" WindowStartupLocation="CenterScreen" WindowStyle="ThreeDBorderWindow" SizeToContent="WidthAndHeight">
+
+    <Window.Resources>
+        <SolidColorBrush x:Key="MediumGreyBrush" Color="#ff6e6e6e"/>
+        <SolidColorBrush x:Key="KinectPurpleBrush" Color="#ff52318f"/>
+        <SolidColorBrush x:Key="KinectBlueBrush" Color="#ff00BCF2"/>
+        <Style TargetType="{x:Type Button}" x:Key="SnapshotButton" >
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Grid>
+                            <StackPanel Orientation="Horizontal" Background="Transparent">
+                                <TextBlock x:Name="SnapText" Text="{TemplateBinding Content}" TextAlignment="Left"  VerticalAlignment="Center" Foreground="{StaticResource KinectPurpleBrush}" FontSize="15" />
+                                <Grid Margin="9,0,0,0">
+                                    <Image x:Name="SnapNormal" Source="Images\SnapNormal.png" Stretch="None" HorizontalAlignment="Center"/>
+                                    <Image x:Name="SnapHover" Source="Images\SnapHover.png" Stretch="None" HorizontalAlignment="Center" Visibility="Collapsed"/>
+                                </Grid>
+                            </StackPanel>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="true">
+                                <Setter Property="Visibility" Value="Collapsed" TargetName="SnapNormal"/>
+                                <Setter Property="Visibility" Value="Visible" TargetName="SnapHover"/>
+                                <Setter Property="Foreground" Value="{StaticResource KinectBlueBrush}" TargetName="SnapText"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <Grid Name="layoutGrid" Margin="10 0 10 0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <DockPanel Grid.Row="0" Margin="0 0 0 20">
+            <Image DockPanel.Dock="Left" Source="Images\Logo.png" Stretch="None" Margin="0 10 0 5"/>
+            <TextBlock DockPanel.Dock="Right" VerticalAlignment="Bottom" Foreground="{StaticResource MediumGreyBrush}" FontFamily="Segoe UI" FontSize="18">Alfa 0.3</TextBlock>
+            <Image Source="Images\Status.png" Stretch="None" HorizontalAlignment="Center" Margin="0 0 0 5"/>
+        </DockPanel>
+        <StatusBar Grid.Row="1" HorizontalAlignment="Stretch" Background="#808CFF" Name="BotonesArd" VerticalAlignment="Bottom" Margin="0 0 0 10">
+            <Button Content="Abrir Puerto Serial" Height="Auto" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="40 0 0 0" Name="VArd_B_OPort" Click="Arduino_ButtonHandler" />
+            <Button Content="Cerrar Puerto Serial" Height="Auto" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="40 0 0 0" Name="VArd_B_CPort" Click="Arduino_ButtonHandler" />
+            <Button Content="Encender Led" Height="Auto" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="20 0 0 0" Name="VArd_B_HLed" Click="Arduino_ButtonHandler" />
+            <Button Content="Apagar Led" Height="Auto" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20 0 0 0" Name="VArd_B_LLed" Click="Arduino_ButtonHandler" />
+            <Button Content="Destello De Led" Height="Auto" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20 0 0 0" Name="VArd_B_BLed" Click="Arduino_ButtonHandler" />
+            <Button Content="Destello Rápido" Height="Auto" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20 0 0 0" Name="VArd_B_FBLed" Click="Arduino_ButtonHandler" />
+        </StatusBar>
+        <StatusBar Grid.Row="2" HorizontalAlignment="Stretch" Name="ControlesKin" Background="#E6E8FF" VerticalAlignment="Bottom">
+            <TextBlock Name="VArd_LS_Port" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="40 0 0 0">Estado Del Puerto</TextBlock>
+            <TextBlock Name="VArd_L_Port"  VerticalAlignment="Center" HorizontalAlignment="Left" Margin="20 0 0 0">--------</TextBlock>
+        </StatusBar>
+    </Grid>
+</Window>

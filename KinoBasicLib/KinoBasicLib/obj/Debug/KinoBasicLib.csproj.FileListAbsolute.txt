@@ -1,0 +1,11 @@
+c:\users\cruxio\documents\visual studio 2012\Projects\KinoBasicLib\KinoBasicLib\obj\Debug\KinoBasicLib.csprojResolveAssemblyReference.cache
+c:\users\cruxio\documents\visual studio 2012\Projects\KinoBasicLib\KinoBasicLib\obj\Debug\SensorChooser.baml
+c:\users\cruxio\documents\visual studio 2012\Projects\KinoBasicLib\KinoBasicLib\obj\Debug\SensorChooser.g.cs
+c:\users\cruxio\documents\visual studio 2012\Projects\KinoBasicLib\KinoBasicLib\obj\Debug\KinoBasicLib_MarkupCompile.cache
+c:\users\cruxio\documents\visual studio 2012\Projects\KinoBasicLib\KinoBasicLib\obj\Debug\KinoBasicLib.g.resources
+c:\users\cruxio\documents\visual studio 2012\Projects\KinoBasicLib\KinoBasicLib\obj\Debug\KinoBasicLib.Properties.Resources.resources
+c:\users\cruxio\documents\visual studio 2012\Projects\KinoBasicLib\KinoBasicLib\obj\Debug\KinoBasicLib.csproj.GenerateResource.Cache
+c:\users\cruxio\documents\visual studio 2012\Projects\KinoBasicLib\KinoBasicLib\bin\Debug\KinoBasicLib.dll
+c:\users\cruxio\documents\visual studio 2012\Projects\KinoBasicLib\KinoBasicLib\bin\Debug\KinoBasicLib.pdb
+c:\users\cruxio\documents\visual studio 2012\Projects\KinoBasicLib\KinoBasicLib\obj\Debug\KinoBasicLib.dll
+c:\users\cruxio\documents\visual studio 2012\Projects\KinoBasicLib\KinoBasicLib\obj\Debug\KinoBasicLib.pdb

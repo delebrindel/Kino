@@ -1,0 +1,31 @@
+﻿<Window x:Class="Kino.Piano"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:my="clr-namespace:KinoControlLib;assembly=KinoControlLib"
+        Title="Piano" Height="300" Width="1150" Loaded="Piano_Loaded" SizeToContent="WidthAndHeight">
+    <StackPanel>
+        <Expander Name="Expansor"  IsEnabled="True">
+            <my:SensorChooser Name="kinectSensorChooser" Height="200"/>
+        </Expander>
+        <StatusBar>
+            <Image Name="video" Height="60" Width="80"/>
+            <CheckBox Name="LeftHand"/>
+            <CheckBox Name="VPai_Ch_Seated" IsChecked="True"/>
+            <TextBlock Name="CoordY" Text="----------" FontSize="36"/>
+        </StatusBar>
+        <StatusBar HorizontalAlignment="Center">
+            <Button Name="VPi_B_C" Content="C" MouseEnter="ButtonHandler" Height="130" Width="80" Background="Red" FontSize="32"/>
+            <Button Name="VPi_B_CS" Content="C#" MouseEnter="ButtonHandler" Height="130" Width="80" Background="Orange" FontSize="32"/>
+            <Button Name="VPi_B_D" Content="D" MouseEnter="ButtonHandler" Height="130" Width="80" Background="Yellow" FontSize="32"/>
+            <Button Name="VPi_B_DS" Content="D#" MouseEnter="ButtonHandler" Height="130" Width="80" Background="Green" FontSize="32" Foreground="White"/>
+            <Button Name="VPi_B_E" Content="E" MouseEnter="ButtonHandler" Height="130" Width="80" Background="Blue" FontSize="32"/>
+            <Button Name="VPi_B_F" Content="F" MouseEnter="ButtonHandler" Height="130" Width="80" Background="Indigo" FontSize="32" Foreground="White"/>
+            <Button Name="VPi_B_FS" Content="F#" MouseEnter="ButtonHandler" Height="130" Width="80" Background="Violet" FontSize="32"/>
+            <Button Name="VPi_B_G" Content="G" MouseEnter="ButtonHandler" Height="130" Width="80" Background="#990033" FontSize="32"/>
+            <Button Name="VPi_B_GS" Content="G#" MouseEnter="ButtonHandler" Height="130" Width="80" Background="#FF3333" FontSize="32"/>
+            <Button Name="VPi_B_A" Content="A" MouseEnter="ButtonHandler" Height="130" Width="80" Background="#006633" FontSize="32"/>
+            <Button Name="VPi_B_AS" Content="A#" MouseEnter="ButtonHandler" Height="130" Width="80" Background="#FF6600" FontSize="32" Foreground="White"/>
+            <Button Name="VPi_B_B" Content="B" MouseEnter="ButtonHandler" Height="130" Width="80" Background="Gray" FontSize="32"/>
+        </StatusBar>
+    </StackPanel>
+</Window>

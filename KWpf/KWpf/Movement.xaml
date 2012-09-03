@@ -1,0 +1,42 @@
+﻿<Window x:Class="KWpf.Movement"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:my="clr-namespace:KBasic;assembly=KBasic"
+        Title="Piano" Height="600" Width="640" HorizontalContentAlignment="Center" HorizontalAlignment="Center" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel>
+            <Expander Name="Expansor"  IsEnabled="True">
+                <my:SensorChooser Name="kinectSensorChooser" Height="200"/>
+            </Expander>
+            <CheckBox Name="VPia_Ch_Seated" IsChecked="False" Content="Sentado"/>
+            <MediaElement x:Name="Musica" Source="C:\Users\America Movil\Documents\Development\KWpf\KWpf\Resources\oath.mp3" LoadedBehavior="Manual" MediaEnded="Musica_MediaEnded"/>
+            <MediaElement x:Name="Clap"  LoadedBehavior="Manual" />
+            <MediaElement x:Name="EDrum" LoadedBehavior="Manual" />
+            <Grid Height="350" Width="600">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="250" />
+                    <RowDefinition Height="150" />
+                </Grid.RowDefinitions>
+                <Image Name="video" Width="80" Height="60" Grid.Row="0" Grid.Column="0"/>
+                <Image Name="Stick" Width="210" Height="250" Grid.Row="0" Grid.Column="1"/>
+                <StackPanel Grid.Row="1" Grid.Column="0" Height="340">
+                    <TextBlock Name="TimerValue" Text="------" FontSize="36" />
+                    <TextBlock Name="TimerOver" Text="------" FontSize="36" />
+                </StackPanel>
+                <StackPanel Grid.Row="1" Grid.Column="1">
+                    <TextBlock Name="Vmv_LS_Points" Text="Points!" FontSize="36" />
+                    <TextBlock Name="Vmv_TB_Points" Text="0" FontSize="36" />
+                </StackPanel>
+            </Grid>
+            <StackPanel HorizontalAlignment="Center">
+                <TextBlock Name="Vmv_TB_Part" Text="------" FontSize="36" />
+                <Image Name="Respuesta" Height="100" Width="100"/>
+            </StackPanel>
+        </StackPanel>
+
+    </Grid>
+</Window>
