@@ -1,0 +1,6 @@
+C:\Users\America Movil\Documents\GitHub\Kino\KinoGame\KinoGame\KinoGame\bin\x86\Debug\KinoGame.exe
+C:\Users\America Movil\Documents\GitHub\Kino\KinoGame\KinoGame\KinoGame\bin\x86\Debug\KinoGame.pdb
+C:\Users\America Movil\Documents\GitHub\Kino\KinoGame\KinoGame\KinoGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\America Movil\Documents\GitHub\Kino\KinoGame\KinoGame\KinoGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\America Movil\Documents\GitHub\Kino\KinoGame\KinoGame\KinoGame\obj\x86\Debug\KinoGame.exe
+C:\Users\America Movil\Documents\GitHub\Kino\KinoGame\KinoGame\KinoGame\obj\x86\Debug\KinoGame.pdb

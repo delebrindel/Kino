@@ -15,12 +15,14 @@ using System.Windows.Media.Animation;
 using System.Media;
 using System.Drawing.Imaging;
 using System.Drawing;
+using System.Runtime.InteropServices;
 
 
 namespace KWpf
 {   /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
+    
     [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Design", "CA1001:TypesThatOwnDisposableFieldsShouldBeDisposable",
         Justification = "In a full-fledged application, the SpeechRecognitionEngine object should be properly disposed. For the sake of simplicity, we're omitting that code in this sample.")]
     public partial class PaintWindow : Window

@@ -79,6 +79,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\..\..\..\Program Files\Microsoft SDKs\Kinect\v1.5\Assemblies\Microsoft.Kinect.dll</HintPath>
     </Reference>
+    <Reference Include="Microsoft.Kinect.Toolkit">
+      <HintPath>..\..\Kino\Kino\bin\Debug\Microsoft.Kinect.Toolkit.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.Speech, Version=11.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\..\..\..\Windows\assembly\GAC_MSIL\Microsoft.Speech\11.0.0.0__31bf3856ad364e35\Microsoft.Speech.dll</HintPath>
@@ -231,6 +234,20 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
     <Content Include="Sounds\Click.wav" />
+    <Resource Include="Sounds\Drums\bass.mp3" />
+    <Content Include="Sounds\Drums\cowbell.mp3" />
+    <Resource Include="Sounds\Drums\crash.mp3" />
+    <Resource Include="Sounds\Drums\crash2.mp3" />
+    <Resource Include="Sounds\Drums\hihat.mp3" />
+    <Resource Include="Sounds\Drums\hihatclosed.mp3" />
+    <Resource Include="Sounds\Drums\ride.mp3" />
+    <Resource Include="Sounds\Drums\tarola.mp3" />
+    <Resource Include="Sounds\Drums\tomhigh.mp3" />
+    <Resource Include="Sounds\Drums\tomhigh2.mp3" />
+    <Resource Include="Sounds\Drums\tommed.mp3" />
+    <Resource Include="Sounds\Drums\tomsmall.mp3" />
+    <Resource Include="Sounds\Drums\tomsmall2.mp3" />
+    <Resource Include="Sounds\Drums\unknow.mp3" />
     <Content Include="Sounds\Exclam.wav" />
     <Content Include="Sounds\Harp.wav" />
   </ItemGroup>

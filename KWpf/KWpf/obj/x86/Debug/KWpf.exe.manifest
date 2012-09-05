@@ -88,26 +88,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="KWpf.exe" size="2683392">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="KWpf.exe" size="2931712">
       <assemblyIdentity name="KWpf" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>7/uAhL1O5T69V3uCjxYGmI2uedQ=</dsig:DigestValue>
+        <dsig:DigestValue>cIrV6ytFx/+ijR6eqlMGUreZbxE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Expression.Drawing.dll" size="122880">
-      <assemblyIdentity name="Microsoft.Expression.Drawing" version="4.0.0.0" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Kinect.Toolkit.dll" size="62976">
+      <assemblyIdentity name="Microsoft.Kinect.Toolkit" version="0.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>rUxD+M8zP3GKvtY6FZyDcUiy/Ng=</dsig:DigestValue>
+        <dsig:DigestValue>kspZEasAnCffs1yaF9lb+o2mcwA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -148,6 +148,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>G3zolnun9T1eKj0qDFhXU2ZicsQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Sounds\Drums\cowbell.mp3" size="18250">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>DyCkHRtPlIz4MXqKA5amfZSy/pA=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Sounds\Exclam.wav" size="240284">

@@ -1,16 +1,43 @@
-﻿<Window x:Name="Instrumentos" x:Class="KWpf.Instrument"
+﻿<Window x:Name="Instrumento" x:Class="KWpf.Instrument"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-        xmlns:my="clr-namespace:KBasic;assembly=KBasic"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    Title="Kino" Height="735" Width="700" Loaded="WindowLoaded" Closing="Window_Closing" Topmost="True" WindowStartupLocation="CenterScreen" WindowState="Maximized" WindowStyle="ThreeDBorderWindow">
-    <Grid>
-        <Expander Name="Expansor"  IsEnabled="True">
-            <my:SensorChooser Name="kinectSensorChooser" Height="200"/>
-        </Expander>
-        <StackPanel Orientation="Vertical" Background="Transparent">
-            <Viewbox Grid.Row="1" Stretch="Uniform" HorizontalAlignment="Center">
-                <Image Name="Esqueleto" Width="640" Height="480" HorizontalAlignment="Center"/>
-            </Viewbox>
+    Title="Kino" Height="595" Width="700" Loaded="WindowLoaded" Closing="Window_Closing" WindowStartupLocation="CenterScreen" WindowStyle="ThreeDBorderWindow">
+
+
+    <Window.Resources>
+        <SolidColorBrush x:Key="MediumGreyBrush" Color="#ff6e6e6e"/>
+        <SolidColorBrush x:Key="KinectPurpleBrush" Color="#ff52318f"/>
+        <SolidColorBrush x:Key="KinectBlueBrush" Color="#ff00BCF2"/>
+    </Window.Resources>
+
+    <Grid Name="layoutGrid" Margin="10 0 10 0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="500"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <MediaElement x:Name="MKick" Source="C:\Users\America Movil\Documents\GitHub\Kino\KWpf\KWpf\Sounds\Drums\cowbell.mp3" LoadedBehavior="Manual"/>
+        <Image Name="Esqueleto" Width="640" Height="480" HorizontalAlignment="Center" Grid.Row="0" Opacity="0.6"/>
+        <Canvas Name="Mask" Width="640" Height="480" HorizontalAlignment="Center" Grid.Row="0" Background="Aqua" Opacity="0.5">
+            <Rectangle Name="VI_CuaSupIzq" Canvas.Top="20" Canvas.Left="20" Height="100" Width="100" StrokeThickness="2" Stroke="White"/>
+            <Rectangle Name="VI_CuaInfIzq" Canvas.Top="160" Canvas.Left="20" Height="100" Width="100" StrokeThickness="2" Stroke="White"/>
+            <Rectangle Name="VI_CuaSupDer" Canvas.Top="20" Canvas.Left="520" Height="100" Width="100" StrokeThickness="2" Stroke="White"/>
+            <Rectangle Name="VI_CuaInfDer" Canvas.Top="160" Canvas.Left="520" Height="100" Width="100" StrokeThickness="2" Stroke="White"/>
+        </Canvas>
+        <StackPanel Grid.Row="1">
+            <StatusBar HorizontalAlignment="Stretch" Background="#808CFF" Name="BotonesKin" VerticalAlignment="Bottom" Margin="0 0 0 5">
+            <Button Content="Subir Kinect" Height="Auto" HorizontalAlignment="Right" VerticalAlignment="Center" Name="VP_B_SubirKin" Margin="25 0 0 0" Click="ButtonUpClick" />
+            <Button Content="Centrar Kinect" Height="Auto" HorizontalAlignment="Right" VerticalAlignment="Center" Name="VP_B_CentrarKin" Margin="25 0 0 0" Click="ButtonCenterClick" />
+            <Button Content="Bajar Kinect" Height="Auto" HorizontalAlignment="Right" VerticalAlignment="Center" Name="VP_B_BajarKin" Margin="25 0 0 0" Click="ButtonDownClick" />
+        </StatusBar>
+        <!-- <Button Grid.Row="4" Style="{StaticResource SnapshotButton}" Content="Screenshot" Height="Auto" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="10 10 0 10" Name="buttonScreenshot" Click="ButtonScreenshotClick" />-->
+        <StatusBar HorizontalAlignment="Stretch" Name="ControlesKin" Background="#E6E8FF" VerticalAlignment="Bottom">
+            <CheckBox Name="VP_Ch_Sentado" VerticalAlignment="Center" HorizontalAlignment="Left" Checked="CheckBoxSeatedModeChanged" Unchecked="CheckBoxSeatedModeChanged">Modo Sentado</CheckBox>
+            <TextBlock Name="VP_LS_Alt" VerticalAlignment="Center" HorizontalAlignment="Left"  Margin="20 0 0 0">Altura Del Kinect</TextBlock>
+            <TextBlock Name="VP_L_Alt"  VerticalAlignment="Center" HorizontalAlignment="Left" Margin="20 0 0 0">--------</TextBlock>
+            <TextBlock Name="VP_L_Estado"  VerticalAlignment="Center" HorizontalAlignment="Left" Margin="20 0 0 0">--------</TextBlock>
+            </StatusBar>
         </StackPanel>
+
     </Grid>
 </Window>

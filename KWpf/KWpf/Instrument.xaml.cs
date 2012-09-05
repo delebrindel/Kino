@@ -17,12 +17,21 @@ namespace KWpf
     using System.IO.Ports;
     using System.Collections.Generic;
     using System.Windows.Controls;
+    using Microsoft.Kinect.Toolkit;
+    using System.Media;
+    using System.Runtime.InteropServices;
+    using System.Text;
 
 
     /// Interaction logic for MainWindow.xaml
 
     public partial class Instrument : Window
     {
+        int FueraCuadro = 0;
+        WMPLib.WindowsMediaPlayer a = new WMPLib.WindowsMediaPlayer();
+
+
+        private readonly KinectSensorChooser sensorChooser = new KinectSensorChooser();
 
         /// Active Kinect sensor
         private KinectSensor sensor;
@@ -61,11 +70,17 @@ namespace KWpf
         /// Brush used for drawing joints that are currently inferred
         private readonly Brush inferredJointBrush = Brushes.Yellow;
 
+        /// Brush used for drawing joints that are currently inferred
+        private readonly Brush handBrush= Brushes.AliceBlue;
+
         /// Pen used for drawing bones that are currently tracked
         private readonly Pen trackedBonePen = new Pen(Brushes.Green, 6);
 
         /// Pen used for drawing bones that are currently inferred
         private readonly Pen inferredBonePen = new Pen(Brushes.Gray, 1);
+
+        /// Pen used for drawing bones that are currently inferred
+        private readonly Pen handPen = new Pen(Brushes.Teal, 1);
 
         /// Drawing group for skeleton rendering output
         private DrawingGroup drawingGroup;
@@ -76,9 +91,7 @@ namespace KWpf
         public Instrument()
         {
             InitializeComponent();
-            Expansor.IsExpanded = true;
         }
-
 
         /// Execute startup tasks
         /// <param name="sender">object sending the event</param>
@@ -94,6 +107,21 @@ namespace KWpf
 
             // Display the drawing using our image control
             Esqueleto.Source = this.imageSource;
+
+            // Look through all sensors and start the first connected one.
+            // This requires that a Kinect is connected at the time of app startup.
+            // To make your app robust against plug/unplug, 
+            // it is recommended to use KinectSensorChooser provided in Microsoft.Kinect.Toolkit
+            foreach (var potentialSensor in KinectSensor.KinectSensors)
+            {
+                if (potentialSensor.Status == KinectStatus.Connected)
+                {
+                    this.sensor = potentialSensor;
+                    break;
+                }
+            }
+            if (null != this.sensor)
+            {
 
                 // Turn on the skeleton stream to receive skeleton frames
                 this.sensor.SkeletonStream.Enable();
@@ -115,12 +143,37 @@ namespace KWpf
                 // Add an event handler to be called whenever there is new color frame data
                 this.sensor.ColorFrameReady += this.SensorColorFrameReady;
 
+                //Kinect Sensor Status
+                KinectSensor.KinectSensors.StatusChanged += new EventHandler<StatusChangedEventArgs>(KinectSensors_StatusChanged);
+
+                // Start the sensor!
+                try
+                {
+                    this.sensor.Start();
+                }
+                catch (IOException)
+                {
+                    this.sensor = null;
+                }
+            }
+
+            if (null == this.sensor)
+            {
+                this.VP_L_Estado.Text = "No hay Kinect";
+            }
             if (sensor.ElevationAngle != 0)
                 sensor.ElevationAngle = 0;
+
+            ControlUpd();
 
         }
 
 
+        //Update Controls
+        private void ControlUpd()
+        {
+            VP_L_Alt.Text = sensor.ElevationAngle.ToString();
+        }
 
         /// Draws indicators to show which edges are clipping skeleton data
         /// <param name="skeleton">skeleton to draw clipping information for</param>
@@ -243,12 +296,30 @@ namespace KWpf
             }
         }
 
+        /// Event handler
+        private void KinectSensors_StatusChanged(object sender, StatusChangedEventArgs e)
+        {
+            switch (e.Status)
+            {
+                case KinectStatus.Disconnected:
+                    VP_L_Estado.Text = "Se Requiere Un Sensor Kinect";
+                    break;
+                case KinectStatus.Initializing:
+                    VP_L_Estado.Text = "Inicializando...";
+                    break;
+                case KinectStatus.Connected:
+                    VP_L_Estado.Text = "Connectado!";
+                    break;
+            }
+        }
 
         /// Draws a skeleton's bones and joints
         /// <param name="skeleton">skeleton to draw</param>
         /// <param name="drawingContext">drawing context to draw to</param>
         private void DrawBonesAndJoints(Skeleton skeleton, DrawingContext drawingContext)
         {
+            DrawHands(skeleton, drawingContext);
+
             // Render Torso
             this.DrawBone(skeleton, drawingContext, JointType.Head, JointType.ShoulderCenter);
             this.DrawBone(skeleton, drawingContext, JointType.ShoulderCenter, JointType.ShoulderLeft);
@@ -306,10 +377,18 @@ namespace KWpf
         {
             // Convert point to depth space.  
             // We are not using depth directly, but we do want the points in our 640x480 output resolution.
-            DepthImagePoint depthPoint = this.sensor.MapSkeletonPointToDepth(
-                                                                             skelpoint,
-                                                                             DepthImageFormat.Resolution640x480Fps30);
+            DepthImagePoint depthPoint = this.sensor.MapSkeletonPointToDepth(skelpoint,DepthImageFormat.Resolution640x480Fps30);
             return new Point(depthPoint.X, depthPoint.Y);
+        }
+
+        private void DrawHands(Skeleton skeleton, DrawingContext drawingContext)
+        {
+            System.Collections.Generic.ICollection<Typeface> typefaces = Fonts.GetTypefaces("file:///C:\\Windows\\Fonts\\#Georgia");
+            Joint manoIzq = skeleton.Joints[JointType.HandLeft];
+            Joint manoDer = skeleton.Joints[JointType.HandRight];
+            drawingContext.DrawEllipse(handBrush, handPen, this.SkeletonPointToScreen(manoIzq.Position), 20.0, 20.0);
+            drawingContext.DrawEllipse(handBrush, handPen, this.SkeletonPointToScreen(manoDer.Position), 20.0, 20.0);
+            ReconocePos(manoIzq, manoDer, drawingContext);
         }
 
         /// Draws a bone line between two joints
@@ -344,6 +423,148 @@ namespace KWpf
             }
 
             drawingContext.DrawLine(drawPen, this.SkeletonPointToScreen(joint0.Position), this.SkeletonPointToScreen(joint1.Position));
+        }
+
+        /// Handles the checking or unchecking of the seated mode combo box
+        /// <param name="sender">object sending the event</param>
+        /// <param name="e">event arguments</param>
+        private void CheckBoxSeatedModeChanged(object sender, RoutedEventArgs e)
+        {
+            if (null != this.sensor)
+            {
+                if (this.VP_Ch_Sentado.IsChecked.GetValueOrDefault())
+                {
+                    this.sensor.SkeletonStream.TrackingMode = SkeletonTrackingMode.Seated;
+                }
+                else
+                {
+                    this.sensor.SkeletonStream.TrackingMode = SkeletonTrackingMode.Default;
+                }
+            }
+        }
+
+        private void ButtonUpClick(object sender, RoutedEventArgs e)
+        {
+            if (sensor.ElevationAngle < 23)
+                sensor.ElevationAngle += 5;
+            else
+                MessageBox.Show("No Se Puede Subir Más");
+            ControlUpd();
+        }
+
+        private void ButtonDownClick(object sender, RoutedEventArgs e)
+        {
+            if (sensor.ElevationAngle > -23)
+                sensor.ElevationAngle -= 5;
+            else
+                MessageBox.Show("No Se Puede Bajar Más");
+            ControlUpd();
+        }
+
+        private void ButtonCenterClick(object sender, RoutedEventArgs e)
+        {
+            if (sensor.ElevationAngle != 0)
+                sensor.ElevationAngle = 0;
+            else
+                MessageBox.Show("El Kinect Se Encuentra Centrado");
+            ControlUpd();
+        }
+
+        private void ReconocePos(Joint manoIzq, Joint manoDer, DrawingContext drawingContext)
+        {
+            Point PMIzq = this.SkeletonPointToScreen(manoIzq.Position);
+            Point PMDer = this.SkeletonPointToScreen(manoDer.Position);
+
+            Point TextoPos=new Point(10,400);
+
+
+            Typeface newTypeface = new Typeface("Arial");
+            FormattedText CadenaIX = new FormattedText(PMIzq.X.ToString(), CultureInfo.CurrentUICulture, FlowDirection.LeftToRight, newTypeface, 40.0, handBrush);
+            FormattedText CadenaIY = new FormattedText(PMIzq.Y.ToString(), CultureInfo.CurrentUICulture, FlowDirection.LeftToRight, newTypeface, 40.0, handBrush);
+            FormattedText CadenaDX = new FormattedText(PMDer.X.ToString(), CultureInfo.CurrentUICulture, FlowDirection.LeftToRight, newTypeface, 40.0, handBrush);
+            FormattedText CadenaDY = new FormattedText(PMDer.Y.ToString(), CultureInfo.CurrentUICulture, FlowDirection.LeftToRight, newTypeface, 40.0, handBrush);
+            drawingContext.DrawText(CadenaIY,TextoPos);
+            //drawingContext.DrawText(CadenaI, this.SkeletonPointToScreen(manoIzq.Position));
+
+
+            if ((PMIzq.X < 120 && (PMIzq.Y > 20 && PMIzq.Y < 120)) || PMDer.X < 120 && (PMDer.Y > 20 && PMDer.Y < 120))
+                Cuadros(1);
+            else if (PMIzq.X < 120 && (PMIzq.Y > 160 && PMIzq.Y < 260) || (PMDer.X < 120 && (PMDer.Y > 160 && PMDer.Y < 260)))
+                Cuadros(2);
+            else if (PMDer.X > 520 && (PMDer.Y > 20 && PMDer.Y < 120) || (PMIzq.X > 520 && (PMIzq.Y > 20 && PMIzq.Y < 120)))
+                Cuadros(3);
+            else if (PMDer.X > 520 && (PMDer.Y > 160 && PMDer.Y < 260) || (PMIzq.X > 520 && (PMIzq.Y > 160 && PMIzq.Y < 260)))
+                Cuadros(4);
+            else
+                Cuadros(0); 
+        }
+
+        private void Cuadros(int cuadro)
+        {
+            SolidColorBrush Relleno=new SolidColorBrush(Colors.Green);
+            SolidColorBrush Vacio=new SolidColorBrush(Colors.White);
+
+            if (cuadro == 1)
+            {
+                VI_CuaSupIzq.Fill = Relleno;
+                ReproduceSon(1);
+            }
+            else if (cuadro == 2)
+            {
+                VI_CuaInfIzq.Fill = Relleno;
+                ReproduceSon(2);
+            }
+            else if (cuadro == 3)
+            {
+                VI_CuaSupDer.Fill = Relleno;
+                ReproduceSon(3);
+            }
+            else if (cuadro == 4)
+            {
+                VI_CuaInfDer.Fill = Relleno;
+                ReproduceSon(4);
+            }
+            else
+            {
+                FueraCuadro = 0;
+                VI_CuaSupIzq.Fill = Vacio;
+                VI_CuaInfIzq.Fill = Vacio;
+                VI_CuaSupDer.Fill = Vacio;
+                VI_CuaInfDer.Fill = Vacio;
+            }
+
+        }
+
+        public void ReproduceSon(int opc){
+            String dir="";
+            if (opc == 1&& FueraCuadro==0)
+            {
+                dir = "C:/Users/America Movil/Documents/GitHub/Kino/KWpf/KWpf/Sounds/Drums/bass.mp3";
+                FueraCuadro = 1;
+                a.URL = dir;
+                a.controls.play();
+            }
+            else if (opc == 2 && FueraCuadro==0)
+            {
+                dir = "C:/Users/America Movil/Documents/GitHub/Kino/KWpf/KWpf/Sounds/Drums/ride.mp3";
+                FueraCuadro = 1;
+                a.URL = dir;
+                a.controls.play();
+            }
+            else if (opc == 3 && FueraCuadro == 0)
+            {
+                dir = "C:/Users/America Movil/Documents/GitHub/Kino/KWpf/KWpf/Sounds/Drums/unknow.mp3";
+                FueraCuadro = 1;
+                a.URL = dir;
+                a.controls.play();
+            }
+            else if (opc == 4 && FueraCuadro == 0)
+            {
+                dir = "C:/Users/America Movil/Documents/GitHub/Kino/KWpf/KWpf/Sounds/Drums/tarola.mp3";
+                FueraCuadro = 1;
+                a.URL = dir;
+                a.controls.play();
+            }
         }
 
     }

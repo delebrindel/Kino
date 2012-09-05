@@ -23,7 +23,6 @@ namespace KWpf
         public MainWindow()
         {
             InitializeComponent();
-            KMouse.StartKinoMouse();
         }
 
 
@@ -44,35 +43,30 @@ namespace KWpf
         private void KinoHoverButtonMt_Click(object sender, EventArgs eventArgs)
         {
             MTouch VMt = new MTouch();
-            KMouse.KMouseOn = 0;
             VMt.Show();
             this.Close();
         }
         private void KinoHoverButtonPp_Click(object sender, EventArgs eventArgs)
         {
             PPControl VPp = new PPControl();
-            KMouse.KMouseOn = 0;
             VPp.Show();
             this.Close();
         }
         private void KinoHoverButtonPia_Click(object sender, EventArgs eventArgs)
         {
             Movement VPi = new Movement();
-            KMouse.KMouseOn = 0;
             VPi.Show();
             this.Close();
         }
         private void KinoHoverButtonMvm_Click(object sender, EventArgs eventArgs)
         {
             Movement VMv = new Movement();
-            KMouse.KMouseOn = 0;
             VMv.Show();
             this.Close();
         }
         private void KinoHoverButtonIns_Click(object sender, EventArgs eventArgs)
         {
             Instrument VIn = new Instrument();
-            KMouse.KMouseOn = 0;
             VIn.Show();
             this.Close();
         }

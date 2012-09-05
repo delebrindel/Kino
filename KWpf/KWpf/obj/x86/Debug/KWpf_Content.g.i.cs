@@ -10,6 +10,7 @@
 
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("horder.mp3")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("sounds/click.wav")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("sounds/drums/cowbell.mp3")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("sounds/exclam.wav")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("sounds/harp.wav")]
 
