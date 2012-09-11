@@ -483,7 +483,7 @@ namespace KWpf
             FormattedText CadenaIY = new FormattedText(PMIzq.Y.ToString(), CultureInfo.CurrentUICulture, FlowDirection.LeftToRight, newTypeface, 40.0, handBrush);
             FormattedText CadenaDX = new FormattedText(PMDer.X.ToString(), CultureInfo.CurrentUICulture, FlowDirection.LeftToRight, newTypeface, 40.0, handBrush);
             FormattedText CadenaDY = new FormattedText(PMDer.Y.ToString(), CultureInfo.CurrentUICulture, FlowDirection.LeftToRight, newTypeface, 40.0, handBrush);
-            drawingContext.DrawText(CadenaIY,TextoPos);
+            //drawingContext.DrawText(CadenaIY,TextoPos);
             //drawingContext.DrawText(CadenaI, this.SkeletonPointToScreen(manoIzq.Position));
 
 

@@ -117,3 +117,5 @@ C:\Users\America Movil\Documents\GitHub\Kino\KWpf\KWpf\obj\x86\Debug\KWpf.exe.ma
 C:\Users\America Movil\Documents\GitHub\Kino\KWpf\KWpf\obj\x86\Debug\KWpf.application
 C:\Users\America Movil\Documents\GitHub\Kino\KWpf\KWpf\obj\x86\Debug\KWpf.exe
 C:\Users\America Movil\Documents\GitHub\Kino\KWpf\KWpf\obj\x86\Debug\KWpf.pdb
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\KWpf\obj\x86\Debug\ArduinoC.baml
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\KWpf\obj\x86\Debug\ArduinoC.g.cs

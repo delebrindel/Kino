@@ -70,5 +70,11 @@ namespace KWpf
             VIn.Show();
             this.Close();
         }
+        private void KinoHoverButtonArd_Click(object sender, EventArgs eventArgs)
+        {
+            ArduinoC VAr = new ArduinoC();
+            VAr.Show();
+            this.Close();
+        }
     }
 }

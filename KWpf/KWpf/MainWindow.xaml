@@ -26,6 +26,7 @@
                 <kcontrols:KHoverButton DisplayTextSize="16" Margin="20 20 20 0" DisplayText="Piano" Time="1" PathFill="Goldenrod" Click="KinoHoverButtonPia_Click"/>
                 <kcontrols:KHoverButton DisplayTextSize="16" Margin="20 20 20 0" DisplayText="Move!" Time="1" PathFill="Firebrick" Click="KinoHoverButtonMvm_Click"/>
                 <kcontrols:KHoverButton DisplayTextSize="16" Margin="20 20 20 0" DisplayText="Instruments!" Time="1" PathFill="Chartreuse"  Click="KinoHoverButtonIns_Click"/>
+                <kcontrols:KHoverButton DisplayTextSize="16" Margin="20 20 20 0" DisplayText="Arduino" Time="1" PathFill="Beige" Click="KinoHoverButtonArd_Click"/>
             </StackPanel>
         </StackPanel>
     </Grid>

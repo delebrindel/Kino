@@ -88,14 +88,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="KWpf.exe" size="2931712">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="KWpf.exe" size="2937856">
       <assemblyIdentity name="KWpf" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>cIrV6ytFx/+ijR6eqlMGUreZbxE=</dsig:DigestValue>
+        <dsig:DigestValue>gRhFcfEYrqTGBUrnHyrwVvpQGwM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
