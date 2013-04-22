@@ -1,4 +1,0 @@
-Kino
-====
-
-Repositorio De Kinect

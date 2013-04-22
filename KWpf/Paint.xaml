@@ -1,0 +1,14 @@
+﻿<Window x:Class="KWpf.Paint"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Kinect Cursor Control" Height="700" Width="1200" WindowStartupLocation="CenterScreen"
+        xmlns:my="clr-namespace:KControls;assembly=KControls" Cursor="Hand" SizeToContent="WidthAndHeight">
+    <StackPanel>
+        <my:KMouse Name="Mouse"/>
+        <StatusBar Name="Controles" >
+            <my:KHoverButton Name="VP_HB_Pincel" DisplayText="Pincel" Click="Pincel_Click" Time="1"/>
+        </StatusBar>
+        <InkCanvas Name="Dibujo" Width="800" Height="600"/>
+    </StackPanel>
+</Window>
+    

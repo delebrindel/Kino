@@ -1,0 +1,32 @@
+﻿<Window x:Name="VentanaPrincipal" x:Class="KWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:kcontrols="clr-namespace:KControls;assembly=KControls"        
+        Title="Kino" Height="400" Width="700" WindowStartupLocation="CenterScreen" WindowStyle="ThreeDBorderWindow" SizeToContent="WidthAndHeight">
+    <Window.Resources>
+        <SolidColorBrush x:Key="MediumGreyBrush" Color="#ff6e6e6e"/>
+        <SolidColorBrush x:Key="KinectPurpleBrush" Color="#ff52318f"/>
+        <SolidColorBrush x:Key="KinectBlueBrush" Color="#ff00BCF2"/>
+    </Window.Resources>
+    <Grid Name="layoutGrid" Margin="10 0 10 0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="1" HorizontalAlignment="Center">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <kcontrols:KHoverButton DisplayTextSize="16" DisplayText="Paint" Time="1" PathFill="Red" Click="KinoHoverButtonPa_Click"/>
+                <kcontrols:KHoverButton DisplayTextSize="16" Margin="20 0 20 0" DisplayText="Speech" Time="1" PathFill="Green" Click="KinoHoverButtonSp_Click"/>
+                <kcontrols:KHoverButton DisplayTextSize="16" Margin="20 0 20 0" DisplayText="MultiTouch" Time="1" PathFill="Yellow" Click="KinoHoverButtonMt_Click"/>
+                <kcontrols:KHoverButton DisplayTextSize="16" Margin="20 0 20 0" DisplayText="PP Control" Time="1" PathFill="Blue" Click="KinoHoverButtonPp_Click"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <kcontrols:KHoverButton DisplayTextSize="16" Margin="20 20 20 0" DisplayText="Piano" Time="1" PathFill="Goldenrod" Click="KinoHoverButtonPia_Click"/>
+                <kcontrols:KHoverButton DisplayTextSize="16" Margin="20 20 20 0" DisplayText="Move!" Time="1" PathFill="Firebrick" Click="KinoHoverButtonMvm_Click"/>
+                <kcontrols:KHoverButton DisplayTextSize="16" Margin="20 20 20 0" DisplayText="Instruments!" Time="1" PathFill="Chartreuse"  Click="KinoHoverButtonIns_Click"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
