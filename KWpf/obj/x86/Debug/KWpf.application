@@ -8,14 +8,14 @@
     <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="KWpf.exe.manifest" size="10074">
+    <dependentAssembly dependencyType="install" codebase="KWpf.exe.manifest" size="9781">
       <assemblyIdentity name="KWpf.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>f9K0iwKMorYFT7LYWMk3bSXg/6w=</dsig:DigestValue>
+        <dsig:DigestValue>E2ctOv06DdMUb2m8+0N5yPos0es=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

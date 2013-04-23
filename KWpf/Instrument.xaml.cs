@@ -539,28 +539,28 @@ namespace KWpf
             String dir="";
             if (opc == 1&& FueraCuadro==0)
             {
-                dir = "C:/Users/America Movil/Documents/GitHub/Kino/KWpf/KWpf/Sounds/Drums/bass.mp3";
+                dir = "C:/xampp/htdocs/Kino/KWpf/Sounds/Otros/Copa.mp3";
                 FueraCuadro = 1;
                 a.URL = dir;
                 a.controls.play();
             }
             else if (opc == 2 && FueraCuadro==0)
             {
-                dir = "C:/Users/America Movil/Documents/GitHub/Kino/KWpf/KWpf/Sounds/Drums/ride.mp3";
+                dir = "C:/xampp/htdocs/Kino/KWpf/Sounds/Otros/Sartenazo.mp3";
                 FueraCuadro = 1;
                 a.URL = dir;
                 a.controls.play();
             }
             else if (opc == 3 && FueraCuadro == 0)
             {
-                dir = "C:/Users/America Movil/Documents/GitHub/Kino/KWpf/KWpf/Sounds/Drums/unknow.mp3";
+                dir = "C:/xampp/htdocs/Kino/KWpf/Sounds/Otros/Timbre.mp3";
                 FueraCuadro = 1;
                 a.URL = dir;
                 a.controls.play();
             }
             else if (opc == 4 && FueraCuadro == 0)
             {
-                dir = "C:/Users/America Movil/Documents/GitHub/Kino/KWpf/KWpf/Sounds/Drums/tarola.mp3";
+                dir = "C:/xampp/htdocs/Kino/KWpf/Sounds/Otros/Burbuja.mp3";
                 FueraCuadro = 1;
                 a.URL = dir;
                 a.controls.play();

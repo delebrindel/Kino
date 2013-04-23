@@ -163,3 +163,46 @@ C:\Users\America Movil\Dropbox\Kino\KWpf\KWpf\obj\x86\Debug\GenerateResource.rea
 C:\Users\America Movil\Dropbox\Kino\KWpf\KWpf\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\America Movil\Dropbox\Kino\KWpf\KWpf\obj\x86\Debug\KWpf.exe.manifest
 C:\Users\America Movil\Dropbox\Kino\KWpf\KWpf\obj\x86\Debug\KWpf.application
+C:\xampp\htdocs\Kino\KWpf\bin\Debug\KWpf.exe.config
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\Interop.WMPLib.dll
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\KWpf.csproj.ResolveComReference.cache
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\KWpf.exe
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\KWpf.pdb
+C:\xampp\htdocs\Kino\KWpf\bin\Debug\KWpf.exe.manifest
+C:\xampp\htdocs\Kino\KWpf\bin\Debug\KWpf.application
+C:\xampp\htdocs\Kino\KWpf\bin\Debug\KWpf.exe
+C:\xampp\htdocs\Kino\KWpf\bin\Debug\KWpf.pdb
+C:\xampp\htdocs\Kino\KWpf\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\xampp\htdocs\Kino\KWpf\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\xampp\htdocs\Kino\KWpf\bin\Debug\KBasic.pdb
+C:\xampp\htdocs\Kino\KWpf\bin\Debug\KControls.pdb
+C:\xampp\htdocs\Kino\KWpf\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\xampp\htdocs\Kino\KWpf\bin\Debug\NAudio.xml
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\ArduinoC.baml
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\Instrument.baml
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\MainWindow.baml
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\Movement.baml
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\PaintWindow.baml
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\Sound.baml
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\PPControl.baml
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\Speech.baml
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\MTouch.baml
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\ArduinoC.g.cs
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\Instrument.g.cs
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\MainWindow.g.cs
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\Movement.g.cs
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\PaintWindow.g.cs
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\Sound.g.cs
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\PPControl.g.cs
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\Speech.g.cs
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\MTouch.g.cs
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\App.g.cs
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\KWpf_Content.g.cs
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\KWpf_MarkupCompile.cache
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\KWpf.g.resources
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\KWpf.Properties.Resources.resources
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\KWpf.exe.manifest
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\KWpf.application

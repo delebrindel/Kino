@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\America Movil\Dropbox\Kino\KWpf\KWpf\obj\x86\Debug\
+C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\
 KWpf
 none
 false
 DEBUG;TRACE
-C:\Users\America Movil\Dropbox\Kino\KWpf\KWpf\App.xaml
+C:\xampp\htdocs\Kino\KWpf\App.xaml
 9-87252453
 5993800319
 141312412601
-221222127951
+221865002830
 ArduinoC.xaml;Instrument.xaml;MainWindow.xaml;Movement.xaml;PaintWindow.xaml;Sound.xaml;PPControl.xaml;Speech.xaml;MTouch.xaml;
 
 False
