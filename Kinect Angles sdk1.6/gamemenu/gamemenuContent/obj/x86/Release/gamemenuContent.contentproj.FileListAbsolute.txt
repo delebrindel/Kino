@@ -1,0 +1,11 @@
+F:\XNA\Kinect\angles\gamemenu\gamemenuContent\obj\x86\Release\ResolveAssemblyReference.cache
+K:\XNA\Kinect\angles\gamemenu\gamemenuContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Local Storage\angles\gamemenu\gamemenuContent\obj\x86\Release\ResolveAssemblyReference.cache
+D:\XNA\angles new SDK\gamemenu\gamemenuContent\obj\x86\Release\ResolveAssemblyReference.cache
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenuContent\obj\x86\Release\ResolveAssemblyReference.cache
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenuContent\obj\x86\Release\ResolveAssemblyReference.cache
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenuContent\obj\x86\Release\ResolveAssemblyReference.cache
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenuContent\obj\x86\Release\ResolveAssemblyReference.cache
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenuContent\obj\x86\Release\ResolveAssemblyReference.cache
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenuContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenuContent\obj\x86\Release\ResolveAssemblyReference.cache

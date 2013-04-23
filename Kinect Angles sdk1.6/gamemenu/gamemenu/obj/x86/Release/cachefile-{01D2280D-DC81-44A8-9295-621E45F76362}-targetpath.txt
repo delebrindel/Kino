@@ -1,0 +1,100 @@
+Content\Background for Menus.xnb
+Content\Exit-Normal.xnb
+Content\Exit-Selected.xnb
+Content\High-Score-Normal.xnb
+Content\High-Score-Selected.xnb
+Content\Options-Normal.xnb
+Content\Options-Selected.xnb
+Content\Start-Normal.xnb
+Content\Start-Selected.xnb
+Content\X-Games-Cursor-Highlight.xnb
+Content\X-Games-Cursor.xnb
+Content\quartz4.xnb
+Content\line.xnb
+Content\andy1.xnb
+Content\line2.xnb
+Content\line3.xnb
+Content\line4.xnb
+Content\conniehand.xnb
+Content\game screen.xnb
+Content\game screen 2.xnb
+Content\game screen 3.xnb
+Content\game screen 4.xnb
+Content\andybev.xnb
+Content\andyglow.xnb
+Content\andynew.xnb
+Content\game screen 5.xnb
+Content\player1.xnb
+Content\player1over.xnb
+Content\player2.xnb
+Content\player2over.xnb
+Content\highscoreover.xnb
+Content\highscores.xnb
+Content\kinectbackground.xnb
+Content\exit.xnb
+Content\exitover.xnb
+Content\options.xnb
+Content\optionsover.xnb
+Content\game screen 3b.xnb
+Content\game screen 4b.xnb
+Content\game screen 5b.xnb
+Content\miramonte9.xnb
+Content\all1.xnb
+Content\angles1.xnb
+Content\angles1a.xnb
+Content\decimal1.xnb
+Content\decimal2.xnb
+Content\percentages1.xnb
+Content\fractions1.xnb
+Content\xboxControllerBack.xnb
+Content\easy.xnb
+Content\hard.xnb
+Content\medium.xnb
+Content\easy2.xnb
+Content\backglow.xnb
+Content\medium2.xnb
+Content\hard2.xnb
+Content\percentages2.xnb
+Content\all2.xnb
+Content\angles2.xnb
+Content\fractions2.xnb
+Content\p1left.xnb
+Content\p1lefthigh.xnb
+Content\p2left.xnb
+Content\p2lefthigh.xnb
+Content\questions2ask.xnb
+Content\spinner.xnb
+Content\spinnerdown.xnb
+Content\spinnerup.xnb
+Content\p1right.xnb
+Content\p1rightglow.xnb
+Content\p2right.xnb
+Content\p2rightglow.xnb
+Content\savepicson.xnb
+Content\savepicsonglow.xnb
+Content\savepicturesoff.xnb
+Content\savepicturesoffglow.xnb
+Content\full screen off.xnb
+Content\full screen on.xnb
+Content\fullscreenonglow.xnb
+Content\fullscreenoffglow.xnb
+Content\kinect angles.xnb
+Content\bonus.xnb
+Content\drawlogo.xnb
+Content\gameover.xnb
+Content\kangleslogo.xnb
+Content\newbackground.xnb
+Content\newbackground2.xnb
+Content\p1newhigh.xnb
+Content\p1wins.xnb
+Content\p2newhigh.xnb
+Content\p2wins.xnb
+Content\bearings1.xnb
+Content\bearings2.xnb
+Content\fandab.xnb
+Content\woof.xnb
+Content\woop.xnb
+Content\yeah.xnb
+Content\yeah2.xnb
+Content\yipee.xnb
+Content\camera1.xnb

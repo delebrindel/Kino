@@ -1,0 +1,13 @@
+E:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\XNA\XNA4 Projects\Media\Code\gamemenu\gamemenu\gamemenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\XNA\Kinect\angles\gamemenu\gamemenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\XNA\Kinect\angles\gamemenu\gamemenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\XNA\Kinect\angles\gamemenu\gamemenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XNA\Kinect\angles\gamemenu\gamemenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\XNA\angles new SDK\gamemenu\gamemenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenuContent\obj\x86\Debug\ResolveAssemblyReference.cache

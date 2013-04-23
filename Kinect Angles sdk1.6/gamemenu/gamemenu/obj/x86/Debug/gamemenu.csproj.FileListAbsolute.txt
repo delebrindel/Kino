@@ -1,0 +1,106 @@
+E:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Background for Menus.xnb
+E:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Exit-Normal.xnb
+E:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Exit-Selected.xnb
+E:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\High-Score-Normal.xnb
+E:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\High-Score-Selected.xnb
+E:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Options-Normal.xnb
+E:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Options-Selected.xnb
+E:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Start-Normal.xnb
+E:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Start-Selected.xnb
+E:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\X-Games-Cursor-Highlight.xnb
+E:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\X-Games-Cursor.xnb
+E:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\gamemenu.exe
+E:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\gamemenu.pdb
+E:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\obj\x86\Debug\gamemenu.exe
+E:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\obj\x86\Debug\gamemenu.pdb
+J:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Background for Menus.xnb
+J:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Exit-Normal.xnb
+J:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Exit-Selected.xnb
+J:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\High-Score-Normal.xnb
+J:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\High-Score-Selected.xnb
+J:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Options-Normal.xnb
+J:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Options-Selected.xnb
+J:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Start-Normal.xnb
+J:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Start-Selected.xnb
+J:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\X-Games-Cursor-Highlight.xnb
+J:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\X-Games-Cursor.xnb
+J:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\gamemenu.exe
+J:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\gamemenu.pdb
+J:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+J:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\obj\x86\Debug\gamemenu.exe
+J:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\obj\x86\Debug\gamemenu.pdb
+F:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Background for Menus.xnb
+F:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Exit-Normal.xnb
+F:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Exit-Selected.xnb
+F:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\High-Score-Normal.xnb
+F:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\High-Score-Selected.xnb
+F:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Options-Normal.xnb
+F:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Options-Selected.xnb
+F:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Start-Normal.xnb
+F:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Start-Selected.xnb
+F:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\X-Games-Cursor-Highlight.xnb
+F:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\X-Games-Cursor.xnb
+F:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\gamemenu.exe
+F:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\gamemenu.pdb
+F:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\obj\x86\Debug\gamemenu.exe
+F:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\obj\x86\Debug\gamemenu.pdb
+K:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Background for Menus.xnb
+K:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Exit-Normal.xnb
+K:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Exit-Selected.xnb
+K:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\High-Score-Normal.xnb
+K:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\High-Score-Selected.xnb
+K:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Options-Normal.xnb
+K:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Options-Selected.xnb
+K:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Start-Normal.xnb
+K:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Start-Selected.xnb
+K:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\X-Games-Cursor-Highlight.xnb
+K:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\X-Games-Cursor.xnb
+K:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\gamemenu.exe
+K:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\bin\x86\Debug\gamemenu.pdb
+K:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\obj\x86\Debug\gamemenu.exe
+K:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenu\obj\x86\Debug\gamemenu.pdb
+K:\XNA\XNA4 Projects\Media\Code\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Background for Menus.xnb
+K:\XNA\XNA4 Projects\Media\Code\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Exit-Normal.xnb
+K:\XNA\XNA4 Projects\Media\Code\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Exit-Selected.xnb
+K:\XNA\XNA4 Projects\Media\Code\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\High-Score-Normal.xnb
+K:\XNA\XNA4 Projects\Media\Code\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\High-Score-Selected.xnb
+K:\XNA\XNA4 Projects\Media\Code\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Options-Normal.xnb
+K:\XNA\XNA4 Projects\Media\Code\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Options-Selected.xnb
+K:\XNA\XNA4 Projects\Media\Code\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Start-Normal.xnb
+K:\XNA\XNA4 Projects\Media\Code\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\Start-Selected.xnb
+K:\XNA\XNA4 Projects\Media\Code\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\X-Games-Cursor-Highlight.xnb
+K:\XNA\XNA4 Projects\Media\Code\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\X-Games-Cursor.xnb
+K:\XNA\XNA4 Projects\Media\Code\gamemenu\gamemenu\gamemenu\bin\x86\Debug\gamemenu.exe
+K:\XNA\XNA4 Projects\Media\Code\gamemenu\gamemenu\gamemenu\bin\x86\Debug\gamemenu.pdb
+K:\XNA\XNA4 Projects\Media\Code\gamemenu\gamemenu\gamemenu\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\XNA\XNA4 Projects\Media\Code\gamemenu\gamemenu\gamemenu\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\XNA\XNA4 Projects\Media\Code\gamemenu\gamemenu\gamemenu\obj\x86\Debug\gamemenu.exe
+K:\XNA\XNA4 Projects\Media\Code\gamemenu\gamemenu\gamemenu\obj\x86\Debug\gamemenu.pdb
+K:\XNA\XNA4 Projects\Media\Code\gamemenu\gamemenu\gamemenu\bin\x86\Debug\Content\quartz4.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Debug\Content\Background for Menus.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Debug\Content\Exit-Normal.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Debug\Content\Exit-Selected.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Debug\Content\High-Score-Normal.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Debug\Content\High-Score-Selected.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Debug\Content\Options-Normal.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Debug\Content\Options-Selected.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Debug\Content\Start-Normal.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Debug\Content\Start-Selected.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Debug\Content\X-Games-Cursor-Highlight.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Debug\Content\X-Games-Cursor.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Debug\Content\quartz4.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Debug\gamemenu.exe
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Debug\gamemenu.pdb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\XNA\Kinect\angles\gamemenu\gamemenu\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\XNA\Kinect\angles\gamemenu\gamemenu\obj\x86\Debug\gamemenu.exe
+K:\XNA\Kinect\angles\gamemenu\gamemenu\obj\x86\Debug\gamemenu.pdb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Debug\Content\line.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Debug\Content\andy1.xnb

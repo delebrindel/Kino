@@ -1,0 +1,1090 @@
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\Background for Menus.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\Exit-Normal.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\Exit-Selected.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\High-Score-Normal.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\High-Score-Selected.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\Options-Normal.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\Options-Selected.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\Start-Normal.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\Start-Selected.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\X-Games-Cursor-Highlight.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\X-Games-Cursor.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\quartz4.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\line.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\andy1.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\line2.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\line3.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\line4.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\conniehand.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\game screen.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\game screen 2.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\game screen 3.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\game screen 4.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\andybev.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\andyglow.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\andynew.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\game screen 5.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\player1.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\player1over.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\player2.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\player2over.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\highscoreover.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\highscores.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\kinectbackground.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\exit.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\exitover.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\options.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\optionsover.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\game screen 3b.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\game screen 4b.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\game screen 5b.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\miramonte9.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\all1.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\angles1.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\angles1a.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\decimal1.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\decimal2.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\percentages1.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\fractions1.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\xboxControllerBack.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\easy.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\hard.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\medium.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\easy2.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\backglow.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\medium2.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\hard2.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\percentages2.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\all2.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\angles2.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\fractions2.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\applause-2.xnb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\KinectAngles.exe
+F:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\KinectAngles.pdb
+F:\XNA\Kinect\angles\gamemenu\gamemenu\obj\x86\Release\ResolveAssemblyReference.cache
+F:\XNA\Kinect\angles\gamemenu\gamemenu\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\XNA\Kinect\angles\gamemenu\gamemenu\obj\x86\Release\KinectAngles.exe
+F:\XNA\Kinect\angles\gamemenu\gamemenu\obj\x86\Release\KinectAngles.pdb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\Background for Menus.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\Exit-Normal.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\Exit-Selected.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\High-Score-Normal.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\High-Score-Selected.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\Options-Normal.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\Options-Selected.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\Start-Normal.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\Start-Selected.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\X-Games-Cursor-Highlight.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\X-Games-Cursor.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\quartz4.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\line.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\andy1.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\line2.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\line3.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\line4.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\conniehand.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\game screen.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\game screen 2.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\game screen 3.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\game screen 4.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\andybev.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\andyglow.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\andynew.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\game screen 5.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\player1.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\player1over.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\player2.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\player2over.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\highscoreover.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\highscores.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\kinectbackground.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\exit.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\exitover.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\options.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\optionsover.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\game screen 3b.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\game screen 4b.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\game screen 5b.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\miramonte9.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\all1.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\angles1.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\angles1a.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\decimal1.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\decimal2.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\percentages1.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\fractions1.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\xboxControllerBack.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\easy.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\hard.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\medium.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\easy2.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\backglow.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\medium2.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\hard2.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\percentages2.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\all2.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\angles2.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\fractions2.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\applause-2.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\fandab.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\woof.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\woop.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\yeah.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\yeah2.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\yipee.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\KinectAngles.exe
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\KinectAngles.pdb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\obj\x86\Release\ResolveAssemblyReference.cache
+K:\XNA\Kinect\angles\gamemenu\gamemenu\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\XNA\Kinect\angles\gamemenu\gamemenu\obj\x86\Release\KinectAngles.exe
+K:\XNA\Kinect\angles\gamemenu\gamemenu\obj\x86\Release\KinectAngles.pdb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\p1left.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\p1lefthigh.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\p2left.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\p2lefthigh.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\questions2ask.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\spinner.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\spinnerdown.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\spinnerup.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\p1right.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\p1rightglow.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\p2right.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\p2rightglow.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\savepicson.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\savepicsonglow.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\savepicturesoff.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\savepicturesoffglow.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\full screen off.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\full screen on.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\fullscreenonglow.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\fullscreenoffglow.xnb
+K:\XNA\Kinect\angles\gamemenu\gamemenu\bin\x86\Release\Content\kinect angles.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Local Storage\angles\gamemenu\gamemenu\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Local Storage\angles\gamemenu\gamemenu\obj\x86\Release\KinectAngles.exe
+C:\Local Storage\angles\gamemenu\gamemenu\obj\x86\Release\KinectAngles.pdb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\Background for Menus.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\Exit-Normal.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\Exit-Selected.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\High-Score-Normal.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\High-Score-Selected.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\Options-Normal.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\Options-Selected.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\Start-Normal.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\Start-Selected.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\X-Games-Cursor-Highlight.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\X-Games-Cursor.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\quartz4.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\line.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\andy1.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\line2.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\line3.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\line4.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\conniehand.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\game screen.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\game screen 2.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\game screen 3.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\game screen 4.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\andybev.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\andyglow.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\andynew.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\game screen 5.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\player1.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\player1over.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\player2.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\player2over.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\highscoreover.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\highscores.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\kinectbackground.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\exit.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\exitover.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\options.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\optionsover.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\game screen 3b.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\game screen 4b.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\game screen 5b.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\miramonte9.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\all1.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\angles1.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\angles1a.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\decimal1.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\decimal2.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\percentages1.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\fractions1.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\xboxControllerBack.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\easy.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\hard.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\medium.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\easy2.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\backglow.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\medium2.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\hard2.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\percentages2.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\all2.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\angles2.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\fractions2.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\p1left.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\p1lefthigh.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\p2left.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\p2lefthigh.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\questions2ask.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\spinner.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\spinnerdown.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\spinnerup.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\p1right.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\p1rightglow.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\p2right.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\p2rightglow.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\savepicson.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\savepicsonglow.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\savepicturesoff.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\savepicturesoffglow.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\full screen off.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\full screen on.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\fullscreenonglow.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\fullscreenoffglow.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\kinect angles.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\applause-2.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\fandab.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\woof.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\woop.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\yeah.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\yeah2.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\Content\yipee.xnb
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\KinectAngles.exe
+C:\Local Storage\angles\gamemenu\gamemenu\bin\x86\Release\KinectAngles.pdb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Background for Menus.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Exit-Normal.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Exit-Selected.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\High-Score-Normal.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\High-Score-Selected.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Options-Normal.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Options-Selected.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Start-Normal.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Start-Selected.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\X-Games-Cursor-Highlight.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\X-Games-Cursor.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\quartz4.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\line.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\andy1.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\line2.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\line3.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\line4.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\conniehand.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 2.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 3.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 4.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\andybev.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\andyglow.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\andynew.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 5.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\player1.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\player1over.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\player2.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\player2over.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\highscoreover.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\highscores.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\kinectbackground.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\exit.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\exitover.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\options.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\optionsover.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 3b.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 4b.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 5b.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\miramonte9.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\all1.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\angles1.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\angles1a.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\decimal1.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\decimal2.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\percentages1.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fractions1.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\xboxControllerBack.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\easy.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\hard.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\medium.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\easy2.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\backglow.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\medium2.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\hard2.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\percentages2.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\all2.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\angles2.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fractions2.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1left.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1lefthigh.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2left.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2lefthigh.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\questions2ask.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\spinner.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\spinnerdown.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\spinnerup.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1right.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1rightglow.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2right.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2rightglow.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\savepicson.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\savepicsonglow.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\savepicturesoff.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\savepicturesoffglow.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\full screen off.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\full screen on.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fullscreenonglow.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fullscreenoffglow.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\kinect angles.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\applause-2.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fandab.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\woof.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\woop.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\yeah.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\yeah2.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\yipee.xnb
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\KinectAngles.exe
+D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Release\KinectAngles.pdb
+D:\XNA\angles new SDK\gamemenu\gamemenu\obj\x86\Release\ResolveAssemblyReference.cache
+D:\XNA\angles new SDK\gamemenu\gamemenu\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\XNA\angles new SDK\gamemenu\gamemenu\obj\x86\Release\KinectAngles.exe
+D:\XNA\angles new SDK\gamemenu\gamemenu\obj\x86\Release\KinectAngles.pdb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Background for Menus.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Exit-Normal.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Exit-Selected.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\High-Score-Normal.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\High-Score-Selected.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Options-Normal.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Options-Selected.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Start-Normal.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Start-Selected.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\X-Games-Cursor-Highlight.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\X-Games-Cursor.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\quartz4.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\line.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\andy1.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\line2.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\line3.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\line4.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\conniehand.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 2.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 3.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 4.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\andybev.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\andyglow.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\andynew.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 5.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\player1.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\player1over.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\player2.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\player2over.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\highscoreover.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\highscores.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\kinectbackground.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\exit.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\exitover.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\options.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\optionsover.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 3b.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 4b.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 5b.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\miramonte9.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\all1.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\angles1.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\angles1a.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\decimal1.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\decimal2.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\percentages1.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fractions1.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\xboxControllerBack.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\easy.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\hard.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\medium.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\easy2.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\backglow.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\medium2.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\hard2.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\percentages2.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\all2.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\angles2.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fractions2.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1left.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1lefthigh.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2left.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2lefthigh.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\questions2ask.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\spinner.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\spinnerdown.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\spinnerup.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1right.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1rightglow.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2right.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2rightglow.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\savepicson.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\savepicsonglow.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\savepicturesoff.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\savepicturesoffglow.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\full screen off.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\full screen on.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fullscreenonglow.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fullscreenoffglow.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\kinect angles.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\bonus.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\drawlogo.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\gameover.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\kangleslogo.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\newbackground.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\newbackground2.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1newhigh.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1wins.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2newhigh.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2wins.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fandab.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\woof.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\woop.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\yeah.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\yeah2.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\yipee.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\KinectAngles.exe
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\KinectAngles.pdb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\obj\x86\Release\ResolveAssemblyReference.cache
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\obj\x86\Release\KinectAngles.exe
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\obj\x86\Release\KinectAngles.pdb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\obj\x86\Release\ResolveAssemblyReference.cache
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\obj\x86\Release\KinectAngles.exe
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Background for Menus.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Exit-Normal.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Exit-Selected.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\High-Score-Normal.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\High-Score-Selected.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Options-Normal.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Options-Selected.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Start-Normal.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Start-Selected.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\X-Games-Cursor-Highlight.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\X-Games-Cursor.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\quartz4.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\line.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\andy1.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\line2.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\line3.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\line4.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\conniehand.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 2.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 3.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 4.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\andybev.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\andyglow.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\andynew.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 5.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\player1.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\player1over.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\player2.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\player2over.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\highscoreover.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\highscores.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\kinectbackground.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\exit.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\exitover.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\options.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\optionsover.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 3b.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 4b.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 5b.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\miramonte9.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\all1.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\angles1.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\angles1a.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\decimal1.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\decimal2.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\percentages1.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fractions1.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\xboxControllerBack.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\easy.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\hard.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\medium.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\easy2.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\backglow.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\medium2.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\hard2.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\percentages2.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\all2.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\angles2.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fractions2.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1left.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1lefthigh.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2left.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2lefthigh.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\questions2ask.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\spinner.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\spinnerdown.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\spinnerup.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1right.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1rightglow.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2right.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2rightglow.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\savepicson.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\savepicsonglow.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\savepicturesoff.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\savepicturesoffglow.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\full screen off.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\full screen on.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fullscreenonglow.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fullscreenoffglow.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\kinect angles.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\bonus.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\drawlogo.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\gameover.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\kangleslogo.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\newbackground.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\newbackground2.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1newhigh.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1wins.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2newhigh.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2wins.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fandab.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\woof.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\woop.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\yeah.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\yeah2.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\yipee.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\bearings1.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\bearings2.xnb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\KinectAngles.exe
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\KinectAngles.pdb
+H:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\obj\x86\Release\KinectAngles.pdb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Background for Menus.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Exit-Normal.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Exit-Selected.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\High-Score-Normal.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\High-Score-Selected.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Options-Normal.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Options-Selected.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Start-Normal.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Start-Selected.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\X-Games-Cursor-Highlight.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\X-Games-Cursor.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\quartz4.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\line.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\andy1.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\line2.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\line3.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\line4.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\conniehand.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 2.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 3.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 4.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\andybev.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\andyglow.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\andynew.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 5.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\player1.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\player1over.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\player2.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\player2over.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\highscoreover.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\highscores.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\kinectbackground.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\exit.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\exitover.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\options.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\optionsover.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 3b.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 4b.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 5b.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\miramonte9.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\all1.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\angles1.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\angles1a.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\decimal1.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\decimal2.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\percentages1.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fractions1.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\xboxControllerBack.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\easy.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\hard.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\medium.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\easy2.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\backglow.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\medium2.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\hard2.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\percentages2.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\all2.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\angles2.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fractions2.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1left.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1lefthigh.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2left.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2lefthigh.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\questions2ask.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\spinner.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\spinnerdown.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\spinnerup.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1right.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1rightglow.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2right.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2rightglow.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\savepicson.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\savepicsonglow.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\savepicturesoff.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\savepicturesoffglow.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\full screen off.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\full screen on.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fullscreenonglow.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fullscreenoffglow.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\kinect angles.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\bonus.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\drawlogo.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\gameover.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\kangleslogo.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\newbackground.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\newbackground2.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1newhigh.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1wins.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2newhigh.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2wins.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\bearings1.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\bearings2.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fandab.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\woof.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\woop.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\yeah.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\yeah2.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\yipee.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\camera1.xnb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\KinectAngles.exe
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\KinectAngles.pdb
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\obj\x86\Release\ResolveAssemblyReference.cache
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\obj\x86\Release\KinectAngles.exe
+K:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\obj\x86\Release\KinectAngles.pdb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\bearings1.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\bearings2.xnb
+F:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\camera1.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Background for Menus.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Exit-Normal.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Exit-Selected.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\High-Score-Normal.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\High-Score-Selected.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Options-Normal.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Options-Selected.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Start-Normal.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Start-Selected.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\X-Games-Cursor-Highlight.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\X-Games-Cursor.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\quartz4.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\line.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\andy1.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\line2.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\line3.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\line4.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\conniehand.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 2.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 3.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 4.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\andybev.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\andyglow.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\andynew.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 5.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\player1.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\player1over.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\player2.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\player2over.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\highscoreover.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\highscores.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\kinectbackground.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\exit.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\exitover.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\options.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\optionsover.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 3b.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 4b.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 5b.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\miramonte9.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\all1.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\angles1.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\angles1a.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\decimal1.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\decimal2.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\percentages1.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fractions1.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\xboxControllerBack.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\easy.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\hard.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\medium.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\easy2.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\backglow.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\medium2.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\hard2.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\percentages2.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\all2.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\angles2.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fractions2.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1left.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1lefthigh.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2left.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2lefthigh.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\questions2ask.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\spinner.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\spinnerdown.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\spinnerup.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1right.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1rightglow.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2right.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2rightglow.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\savepicson.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\savepicsonglow.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\savepicturesoff.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\savepicturesoffglow.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\full screen off.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\full screen on.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fullscreenonglow.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fullscreenoffglow.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\kinect angles.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\bonus.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\drawlogo.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\gameover.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\kangleslogo.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\newbackground.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\newbackground2.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1newhigh.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1wins.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2newhigh.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2wins.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\bearings1.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\bearings2.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fandab.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\woof.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\woop.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\yeah.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\yeah2.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\yipee.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\camera1.xnb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\KinectAngles.exe
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\KinectAngles.pdb
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\obj\x86\Release\ResolveAssemblyReference.cache
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\obj\x86\Release\KinectAngles.exe
+E:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\obj\x86\Release\KinectAngles.pdb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Background for Menus.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Exit-Normal.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Exit-Selected.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\High-Score-Normal.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\High-Score-Selected.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Options-Normal.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Options-Selected.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Start-Normal.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\Start-Selected.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\X-Games-Cursor-Highlight.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\X-Games-Cursor.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\quartz4.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\line.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\andy1.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\line2.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\line3.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\line4.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\conniehand.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 2.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 3.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 4.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\andybev.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\andyglow.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\andynew.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 5.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\player1.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\player1over.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\player2.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\player2over.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\highscoreover.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\highscores.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\kinectbackground.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\exit.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\exitover.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\options.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\optionsover.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 3b.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 4b.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\game screen 5b.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\miramonte9.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\all1.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\angles1.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\angles1a.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\decimal1.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\decimal2.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\percentages1.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fractions1.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\xboxControllerBack.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\easy.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\hard.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\medium.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\easy2.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\backglow.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\medium2.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\hard2.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\percentages2.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\all2.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\angles2.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fractions2.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1left.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1lefthigh.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2left.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2lefthigh.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\questions2ask.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\spinner.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\spinnerdown.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\spinnerup.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1right.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1rightglow.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2right.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2rightglow.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\savepicson.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\savepicsonglow.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\savepicturesoff.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\savepicturesoffglow.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\full screen off.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\full screen on.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fullscreenonglow.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fullscreenoffglow.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\kinect angles.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\bonus.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\drawlogo.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\gameover.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\kangleslogo.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\newbackground.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\newbackground2.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1newhigh.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p1wins.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2newhigh.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\p2wins.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\bearings1.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\bearings2.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\fandab.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\woof.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\woop.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\yeah.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\yeah2.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\yipee.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\Content\camera1.xnb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\KinectAngles.exe
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\bin\x86\Release\KinectAngles.pdb
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\obj\x86\Release\ResolveAssemblyReference.cache
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\obj\x86\Release\KinectAngles.exe
+L:\XNA\Kinect\angles new SDK\gamemenu\gamemenu\obj\x86\Release\KinectAngles.pdb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\Background for Menus.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\Exit-Normal.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\Exit-Selected.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\High-Score-Normal.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\High-Score-Selected.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\Options-Normal.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\Options-Selected.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\Start-Normal.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\Start-Selected.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\X-Games-Cursor-Highlight.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\X-Games-Cursor.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\quartz4.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\line.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\andy1.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\line2.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\line3.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\line4.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\conniehand.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\game screen.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\game screen 2.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\game screen 3.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\game screen 4.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\andybev.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\andyglow.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\andynew.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\game screen 5.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\player1.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\player1over.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\player2.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\player2over.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\highscoreover.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\highscores.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\kinectbackground.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\exit.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\exitover.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\options.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\optionsover.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\game screen 3b.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\game screen 4b.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\game screen 5b.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\miramonte9.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\all1.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\angles1.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\angles1a.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\decimal1.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\decimal2.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\percentages1.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\fractions1.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\xboxControllerBack.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\easy.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\hard.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\medium.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\easy2.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\backglow.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\medium2.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\hard2.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\percentages2.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\all2.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\angles2.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\fractions2.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\p1left.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\p1lefthigh.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\p2left.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\p2lefthigh.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\questions2ask.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\spinner.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\spinnerdown.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\spinnerup.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\p1right.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\p1rightglow.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\p2right.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\p2rightglow.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\savepicson.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\savepicsonglow.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\savepicturesoff.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\savepicturesoffglow.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\full screen off.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\full screen on.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\fullscreenonglow.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\fullscreenoffglow.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\kinect angles.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\bonus.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\drawlogo.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\gameover.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\kangleslogo.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\newbackground.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\newbackground2.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\p1newhigh.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\p1wins.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\p2newhigh.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\p2wins.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\bearings1.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\bearings2.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\fandab.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\woof.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\woop.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\yeah.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\yeah2.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\yipee.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\camera1.xnb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\KinectAngles.exe
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\KinectAngles.pdb
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\obj\x86\Release\ResolveAssemblyReference.cache
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\obj\x86\Release\KinectAngles.exe
+G:\XNA\Kinect\Kinect Angles sdk1.6\gamemenu\gamemenu\obj\x86\Release\KinectAngles.pdb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\Background for Menus.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\Exit-Normal.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\Exit-Selected.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\High-Score-Normal.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\High-Score-Selected.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\Options-Normal.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\Options-Selected.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\Start-Normal.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\Start-Selected.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\X-Games-Cursor-Highlight.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\X-Games-Cursor.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\quartz4.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\line.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\andy1.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\line2.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\line3.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\line4.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\conniehand.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\game screen.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\game screen 2.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\game screen 3.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\game screen 4.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\andybev.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\andyglow.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\andynew.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\game screen 5.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\player1.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\player1over.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\player2.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\player2over.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\highscoreover.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\highscores.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\kinectbackground.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\exit.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\exitover.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\options.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\optionsover.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\game screen 3b.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\game screen 4b.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\game screen 5b.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\miramonte9.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\all1.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\angles1.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\angles1a.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\decimal1.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\decimal2.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\percentages1.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\fractions1.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\xboxControllerBack.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\easy.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\hard.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\medium.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\easy2.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\backglow.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\medium2.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\hard2.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\percentages2.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\all2.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\angles2.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\fractions2.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\p1left.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\p1lefthigh.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\p2left.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\p2lefthigh.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\questions2ask.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\spinner.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\spinnerdown.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\spinnerup.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\p1right.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\p1rightglow.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\p2right.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\p2rightglow.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\savepicson.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\savepicsonglow.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\savepicturesoff.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\savepicturesoffglow.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\full screen off.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\full screen on.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\fullscreenonglow.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\fullscreenoffglow.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\kinect angles.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\bonus.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\drawlogo.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\gameover.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\kangleslogo.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\newbackground.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\newbackground2.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\p1newhigh.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\p1wins.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\p2newhigh.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\p2wins.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\bearings1.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\bearings2.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\fandab.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\woof.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\woop.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\yeah.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\yeah2.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\yipee.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\Content\camera1.xnb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\KinectAngles.exe
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\bin\x86\Release\KinectAngles.pdb
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\obj\x86\Release\ResolveAssemblyReference.cache
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\obj\x86\Release\KinectAngles.exe
+C:\xampp\htdocs\Kino\Kinect Angles sdk1.6\gamemenu\gamemenu\obj\x86\Release\KinectAngles.pdb

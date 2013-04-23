@@ -1,0 +1,838 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Background for Menus.jpg</Source>
+      <Name>Background for Menus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\Background for Menus.xnb</Output>
+      <Time>2011-10-12T15:20:08.8256217+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Exit-Normal.png</Source>
+      <Name>Exit-Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\Exit-Normal.xnb</Output>
+      <Time>2011-10-12T15:20:08.841246+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Exit-Selected.png</Source>
+      <Name>Exit-Selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\Exit-Selected.xnb</Output>
+      <Time>2011-10-12T15:20:08.8724946+01:00</Time>
+    </Item>
+    <Item>
+      <Source>High-Score-Normal.png</Source>
+      <Name>High-Score-Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\High-Score-Normal.xnb</Output>
+      <Time>2011-10-12T15:20:08.9193675+01:00</Time>
+    </Item>
+    <Item>
+      <Source>High-Score-Selected.png</Source>
+      <Name>High-Score-Selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\High-Score-Selected.xnb</Output>
+      <Time>2011-10-12T15:20:08.9193675+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Options-Normal.png</Source>
+      <Name>Options-Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\Options-Normal.xnb</Output>
+      <Time>2011-10-12T15:20:08.9349918+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Options-Selected.png</Source>
+      <Name>Options-Selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\Options-Selected.xnb</Output>
+      <Time>2011-10-12T15:20:09.0131133+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Start-Normal.png</Source>
+      <Name>Start-Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\Start-Normal.xnb</Output>
+      <Time>2011-10-12T15:20:09.0912348+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Start-Selected.png</Source>
+      <Name>Start-Selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\Start-Selected.xnb</Output>
+      <Time>2011-10-12T15:20:09.1224834+01:00</Time>
+    </Item>
+    <Item>
+      <Source>X-Games-Cursor-Highlight.png</Source>
+      <Name>X-Games-Cursor-Highlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\X-Games-Cursor-Highlight.xnb</Output>
+      <Time>2011-10-19T15:22:09.9793732+01:00</Time>
+    </Item>
+    <Item>
+      <Source>X-Games-Cursor.png</Source>
+      <Name>X-Games-Cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\X-Games-Cursor.xnb</Output>
+      <Time>2011-10-19T15:22:09.3323362+01:00</Time>
+    </Item>
+    <Item>
+      <Source>quartz4.png</Source>
+      <Name>quartz4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\quartz4.xnb</Output>
+      <Time>2012-03-03T13:53:24.3275177+00:00</Time>
+    </Item>
+    <Item>
+      <Source>line.png</Source>
+      <Name>line</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\line.xnb</Output>
+      <Time>2012-02-19T12:30:43.7723104+00:00</Time>
+    </Item>
+    <Item>
+      <Source>andy1.png</Source>
+      <Name>andy1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\andy1.xnb</Output>
+      <Time>2012-02-19T18:06:28.598347+00:00</Time>
+    </Item>
+    <Item>
+      <Source>line2.png</Source>
+      <Name>line2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\line2.xnb</Output>
+      <Time>2012-02-23T01:20:39.6976847+00:00</Time>
+    </Item>
+    <Item>
+      <Source>line3.png</Source>
+      <Name>line3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\line3.xnb</Output>
+      <Time>2012-02-23T01:25:29.0795842+00:00</Time>
+    </Item>
+    <Item>
+      <Source>line4.png</Source>
+      <Name>line4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\line4.xnb</Output>
+      <Time>2012-03-03T14:29:31.9865129+00:00</Time>
+    </Item>
+    <Item>
+      <Source>conniehand.png</Source>
+      <Name>conniehand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\conniehand.xnb</Output>
+      <Time>2012-03-03T16:16:00.5902044+00:00</Time>
+    </Item>
+    <Item>
+      <Source>game screen.png</Source>
+      <Name>game screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\game screen.xnb</Output>
+      <Time>2012-03-04T17:21:44.0104874+00:00</Time>
+    </Item>
+    <Item>
+      <Source>game screen 2.png</Source>
+      <Name>game screen 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\game screen 2.xnb</Output>
+      <Time>2012-03-04T17:34:31.7556286+00:00</Time>
+    </Item>
+    <Item>
+      <Source>game screen 3.png</Source>
+      <Name>game screen 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\game screen 3.xnb</Output>
+      <Time>2012-03-04T17:47:08.3983346+00:00</Time>
+    </Item>
+    <Item>
+      <Source>game screen 4.png</Source>
+      <Name>game screen 4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\game screen 4.xnb</Output>
+      <Time>2012-03-04T18:00:40.7213809+00:00</Time>
+    </Item>
+    <Item>
+      <Source>andybev.png</Source>
+      <Name>andybev</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\andybev.xnb</Output>
+      <Time>2012-03-04T23:32:06.7243421+00:00</Time>
+    </Item>
+    <Item>
+      <Source>andyglow.png</Source>
+      <Name>andyglow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\andyglow.xnb</Output>
+      <Time>2012-03-04T23:32:06.7543422+00:00</Time>
+    </Item>
+    <Item>
+      <Source>andynew.png</Source>
+      <Name>andynew</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\andynew.xnb</Output>
+      <Time>2012-03-04T23:32:06.7643422+00:00</Time>
+    </Item>
+    <Item>
+      <Source>game screen 5.png</Source>
+      <Name>game screen 5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\game screen 5.xnb</Output>
+      <Time>2012-03-05T23:05:02.7104277+00:00</Time>
+    </Item>
+    <Item>
+      <Source>player1.png</Source>
+      <Name>player1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\player1.xnb</Output>
+      <Time>2012-03-06T12:21:50.8623141+00:00</Time>
+    </Item>
+    <Item>
+      <Source>player1over.png</Source>
+      <Name>player1over</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\player1over.xnb</Output>
+      <Time>2012-03-06T12:21:50.9023141+00:00</Time>
+    </Item>
+    <Item>
+      <Source>player2.png</Source>
+      <Name>player2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\player2.xnb</Output>
+      <Time>2012-03-06T12:26:49.0036641+00:00</Time>
+    </Item>
+    <Item>
+      <Source>player2over.png</Source>
+      <Name>player2over</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\player2over.xnb</Output>
+      <Time>2012-03-06T12:26:49.0436641+00:00</Time>
+    </Item>
+    <Item>
+      <Source>highscoreover.png</Source>
+      <Name>highscoreover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\highscoreover.xnb</Output>
+      <Time>2012-03-06T12:33:53.8786633+00:00</Time>
+    </Item>
+    <Item>
+      <Source>highscores.png</Source>
+      <Name>highscores</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\highscores.xnb</Output>
+      <Time>2012-03-06T12:33:53.8866649+00:00</Time>
+    </Item>
+    <Item>
+      <Source>kinectbackground.png</Source>
+      <Name>kinectbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\kinectbackground.xnb</Output>
+      <Time>2012-03-06T13:09:27.071948+00:00</Time>
+    </Item>
+    <Item>
+      <Source>exit.png</Source>
+      <Name>exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\exit.xnb</Output>
+      <Time>2012-03-06T12:51:17.3827121+00:00</Time>
+    </Item>
+    <Item>
+      <Source>exitover.png</Source>
+      <Name>exitover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\exitover.xnb</Output>
+      <Time>2012-03-06T12:51:17.391713+00:00</Time>
+    </Item>
+    <Item>
+      <Source>options.png</Source>
+      <Name>options</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\options.xnb</Output>
+      <Time>2012-03-06T12:51:17.3977136+00:00</Time>
+    </Item>
+    <Item>
+      <Source>optionsover.png</Source>
+      <Name>optionsover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\optionsover.xnb</Output>
+      <Time>2012-03-06T12:51:17.4077146+00:00</Time>
+    </Item>
+    <Item>
+      <Source>game screen 3b.png</Source>
+      <Name>game screen 3b</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\game screen 3b.xnb</Output>
+      <Time>2012-03-06T14:51:51.8373111+00:00</Time>
+    </Item>
+    <Item>
+      <Source>game screen 4b.png</Source>
+      <Name>game screen 4b</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\game screen 4b.xnb</Output>
+      <Time>2012-03-06T14:51:35.9337209+00:00</Time>
+    </Item>
+    <Item>
+      <Source>game screen 5b.png</Source>
+      <Name>game screen 5b</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\game screen 5b.xnb</Output>
+      <Time>2012-03-06T14:51:25.3446621+00:00</Time>
+    </Item>
+    <Item>
+      <Source>miramonte9.png</Source>
+      <Name>miramonte9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\miramonte9.xnb</Output>
+      <Time>2012-03-06T15:49:45.6543112+00:00</Time>
+    </Item>
+    <Item>
+      <Source>all1.png</Source>
+      <Name>all1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\all1.xnb</Output>
+      <Time>2012-03-07T12:42:29.1692603+00:00</Time>
+    </Item>
+    <Item>
+      <Source>angles1.png</Source>
+      <Name>angles1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\angles1.xnb</Output>
+      <Time>2012-03-07T12:02:15.3428645+00:00</Time>
+    </Item>
+    <Item>
+      <Source>angles1a.png</Source>
+      <Name>angles1a</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\angles1a.xnb</Output>
+      <Time>2012-03-07T12:02:15.3428645+00:00</Time>
+    </Item>
+    <Item>
+      <Source>decimal1.png</Source>
+      <Name>decimal1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\decimal1.xnb</Output>
+      <Time>2012-03-07T12:02:15.7796309+00:00</Time>
+    </Item>
+    <Item>
+      <Source>decimal2.png</Source>
+      <Name>decimal2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\decimal2.xnb</Output>
+      <Time>2012-03-07T13:16:17.44431+00:00</Time>
+    </Item>
+    <Item>
+      <Source>percentages1.png</Source>
+      <Name>percentages1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\percentages1.xnb</Output>
+      <Time>2012-03-07T12:02:15.7952297+00:00</Time>
+    </Item>
+    <Item>
+      <Source>fractions1.png</Source>
+      <Name>fractions1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\fractions1.xnb</Output>
+      <Time>2012-03-07T12:02:30.3177125+00:00</Time>
+    </Item>
+    <Item>
+      <Source>xboxControllerBack.png</Source>
+      <Name>xboxControllerBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\xboxControllerBack.xnb</Output>
+      <Time>2012-03-07T12:22:58.8666611+00:00</Time>
+    </Item>
+    <Item>
+      <Source>easy.png</Source>
+      <Name>easy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\easy.xnb</Output>
+      <Time>2012-03-07T12:44:21.6533603+00:00</Time>
+    </Item>
+    <Item>
+      <Source>hard.png</Source>
+      <Name>hard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\hard.xnb</Output>
+      <Time>2012-03-07T12:44:21.6753603+00:00</Time>
+    </Item>
+    <Item>
+      <Source>medium.png</Source>
+      <Name>medium</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\medium.xnb</Output>
+      <Time>2012-03-07T12:44:21.6813603+00:00</Time>
+    </Item>
+    <Item>
+      <Source>easy2.png</Source>
+      <Name>easy2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\easy2.xnb</Output>
+      <Time>2012-03-07T13:07:13.351773+00:00</Time>
+    </Item>
+    <Item>
+      <Source>backglow.png</Source>
+      <Name>backglow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\backglow.xnb</Output>
+      <Time>2012-03-07T13:09:38.51631+00:00</Time>
+    </Item>
+    <Item>
+      <Source>medium2.png</Source>
+      <Name>medium2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\medium2.xnb</Output>
+      <Time>2012-03-07T13:11:02.14531+00:00</Time>
+    </Item>
+    <Item>
+      <Source>hard2.png</Source>
+      <Name>hard2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\hard2.xnb</Output>
+      <Time>2012-03-07T13:12:02.86631+00:00</Time>
+    </Item>
+    <Item>
+      <Source>percentages2.png</Source>
+      <Name>percentages2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\percentages2.xnb</Output>
+      <Time>2012-03-07T13:15:47.00531+00:00</Time>
+    </Item>
+    <Item>
+      <Source>all2.png</Source>
+      <Name>all2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\all2.xnb</Output>
+      <Time>2012-03-07T13:18:33.90731+00:00</Time>
+    </Item>
+    <Item>
+      <Source>angles2.png</Source>
+      <Name>angles2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\angles2.xnb</Output>
+      <Time>2012-03-07T13:18:40.06031+00:00</Time>
+    </Item>
+    <Item>
+      <Source>fractions2.png</Source>
+      <Name>fractions2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\fractions2.xnb</Output>
+      <Time>2012-03-07T13:18:40.05631+00:00</Time>
+    </Item>
+    <Item>
+      <Source>p1left.png</Source>
+      <Name>p1left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\p1left.xnb</Output>
+      <Time>2012-03-10T20:16:57.2773096+00:00</Time>
+    </Item>
+    <Item>
+      <Source>p1lefthigh.png</Source>
+      <Name>p1lefthigh</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\p1lefthigh.xnb</Output>
+      <Time>2012-03-10T20:16:57.2893103+00:00</Time>
+    </Item>
+    <Item>
+      <Source>p2left.png</Source>
+      <Name>p2left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\p2left.xnb</Output>
+      <Time>2012-03-10T20:16:57.3173119+00:00</Time>
+    </Item>
+    <Item>
+      <Source>p2lefthigh.png</Source>
+      <Name>p2lefthigh</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\p2lefthigh.xnb</Output>
+      <Time>2012-03-10T20:16:57.3293126+00:00</Time>
+    </Item>
+    <Item>
+      <Source>questions2ask.png</Source>
+      <Name>questions2ask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\questions2ask.xnb</Output>
+      <Time>2012-03-11T00:14:49.0666092+00:00</Time>
+    </Item>
+    <Item>
+      <Source>spinner.png</Source>
+      <Name>spinner</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\spinner.xnb</Output>
+      <Time>2012-03-11T00:14:49.0736096+00:00</Time>
+    </Item>
+    <Item>
+      <Source>spinnerdown.png</Source>
+      <Name>spinnerdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\spinnerdown.xnb</Output>
+      <Time>2012-03-11T00:14:49.0826102+00:00</Time>
+    </Item>
+    <Item>
+      <Source>spinnerup.png</Source>
+      <Name>spinnerup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\spinnerup.xnb</Output>
+      <Time>2012-03-11T00:14:49.0906106+00:00</Time>
+    </Item>
+    <Item>
+      <Source>p1right.png</Source>
+      <Name>p1right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\p1right.xnb</Output>
+      <Time>2012-03-11T17:09:04.9311467+00:00</Time>
+    </Item>
+    <Item>
+      <Source>p1rightglow.png</Source>
+      <Name>p1rightglow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\p1rightglow.xnb</Output>
+      <Time>2012-03-11T17:09:04.9391472+00:00</Time>
+    </Item>
+    <Item>
+      <Source>p2right.png</Source>
+      <Name>p2right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\p2right.xnb</Output>
+      <Time>2012-03-11T17:09:04.9511478+00:00</Time>
+    </Item>
+    <Item>
+      <Source>p2rightglow.png</Source>
+      <Name>p2rightglow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\p2rightglow.xnb</Output>
+      <Time>2012-03-11T17:09:04.9591483+00:00</Time>
+    </Item>
+    <Item>
+      <Source>savepicson.png</Source>
+      <Name>savepicson</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\savepicson.xnb</Output>
+      <Time>2012-03-11T17:09:04.972149+00:00</Time>
+    </Item>
+    <Item>
+      <Source>savepicsonglow.png</Source>
+      <Name>savepicsonglow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\savepicsonglow.xnb</Output>
+      <Time>2012-03-11T17:09:05.0041509+00:00</Time>
+    </Item>
+    <Item>
+      <Source>savepicturesoff.png</Source>
+      <Name>savepicturesoff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\savepicturesoff.xnb</Output>
+      <Time>2012-03-11T17:09:04.9861498+00:00</Time>
+    </Item>
+    <Item>
+      <Source>savepicturesoffglow.png</Source>
+      <Name>savepicturesoffglow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\savepicturesoffglow.xnb</Output>
+      <Time>2012-03-11T17:09:04.9951504+00:00</Time>
+    </Item>
+    <Item>
+      <Source>full screen off.png</Source>
+      <Name>full screen off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\full screen off.xnb</Output>
+      <Time>2012-03-11T17:38:33.9323731+00:00</Time>
+    </Item>
+    <Item>
+      <Source>full screen on.png</Source>
+      <Name>full screen on</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\full screen on.xnb</Output>
+      <Time>2012-03-11T17:38:33.9461233+00:00</Time>
+    </Item>
+    <Item>
+      <Source>fullsceenonglow.png</Source>
+      <Name>fullscreenonglow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\fullscreenonglow.xnb</Output>
+      <Time>2012-03-11T17:38:33.9536234+00:00</Time>
+    </Item>
+    <Item>
+      <Source>fullscreenoffglow.png</Source>
+      <Name>fullscreenoffglow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\fullscreenoffglow.xnb</Output>
+      <Time>2012-03-11T17:38:33.9623735+00:00</Time>
+    </Item>
+    <Item>
+      <Source>kinect angles.png</Source>
+      <Name>kinect angles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\kinect angles.xnb</Output>
+      <Time>2012-03-11T20:31:34.0840878+00:00</Time>
+    </Item>
+    <Item>
+      <Source>applause-2.mp3</Source>
+      <Name>applause-2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\applause-2.xnb</Output>
+      <Time>2012-03-06T15:56:56.7896588+00:00</Time>
+    </Item>
+    <Item>
+      <Source>fandab.mp3</Source>
+      <Name>fandab</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\fandab.xnb</Output>
+      <Time>2012-03-09T00:46:51.0884799+00:00</Time>
+    </Item>
+    <Item>
+      <Source>woof.mp3</Source>
+      <Name>woof</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\woof.xnb</Output>
+      <Time>2012-03-09T00:46:51.1544837+00:00</Time>
+    </Item>
+    <Item>
+      <Source>woop.mp3</Source>
+      <Name>woop</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\woop.xnb</Output>
+      <Time>2012-03-09T00:46:51.1664843+00:00</Time>
+    </Item>
+    <Item>
+      <Source>yeah.mp3</Source>
+      <Name>yeah</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\yeah.xnb</Output>
+      <Time>2012-03-09T00:46:51.1844854+00:00</Time>
+    </Item>
+    <Item>
+      <Source>yeah2.mp3</Source>
+      <Name>yeah2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\yeah2.xnb</Output>
+      <Time>2012-03-09T00:46:51.1964861+00:00</Time>
+    </Item>
+    <Item>
+      <Source>yipee.mp3</Source>
+      <Name>yipee</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\yipee.xnb</Output>
+      <Time>2012-03-09T00:46:51.2074867+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\XNA\angles new SDK\gamemenu\gamemenuContent\</RootDirectory>
+      <LoggerRootDirectory>D:\XNA\angles new SDK\gamemenu\gamemenu\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\XNA\angles new SDK\gamemenu\gamemenuContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\XNA\angles new SDK\gamemenu\gamemenu\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-03-13T22:18:19.7775+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
