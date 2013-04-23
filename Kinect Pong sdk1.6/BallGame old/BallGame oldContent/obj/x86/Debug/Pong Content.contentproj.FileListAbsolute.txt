@@ -1,0 +1,6 @@
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame oldContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame oldContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame oldContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame oldContent\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame oldContent\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame oldContent\obj\x86\Debug\ResolveAssemblyReference.cache

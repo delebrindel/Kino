@@ -1,0 +1,9 @@
+L:\XNA\XNA4 Projects\BallGame old\BallGame old\BallGame oldContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\XNA\XNA4 Projects\BallGame old\BallGame old\BallGame oldContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\XNA\XNA4 Projects\saucergame\BallGame old\BallGame oldContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XNA\XNA4 Projects\saucergame\BallGame old\BallGame oldContent\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\XNA\XNA4 Projects\saucergame\BallGame old\BallGame oldContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame oldContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\XNA\XNA4 Projects\pong\BallGame old\BallGame oldContent\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\XNA\XNA4 Projects\pong\BallGame old\BallGame oldContent\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame oldContent\obj\x86\Debug\ResolveAssemblyReference.cache

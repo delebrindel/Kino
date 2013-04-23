@@ -1,0 +1,116 @@
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\football.xnb
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\quartz4.xnb
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\bat1.xnb
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\bat2.xnb
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\footballpitch.xnb
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\darth.xnb
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\obisaber.xnb
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\vadersaber.xnb
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\stars.xnb
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\halfmoon.xnb
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\space.xnb
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\starwarsremoteball.xnb
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\deathstar.xnb
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\beachscene.xnb
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\yodasaber.xnb
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\renfrew.xnb
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\ballhit.xnb
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\Saberblk.xnb
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\strongam.xnb
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\darkside.xnb
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\Track  7.xnb
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\fred.xnb
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\allfolks.xnb
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Pong.exe
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Pong.pdb
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\obj\x86\Debug\Pong.exe
+K:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\obj\x86\Debug\Pong.pdb
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\football.xnb
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\quartz4.xnb
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\bat1.xnb
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\bat2.xnb
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\footballpitch.xnb
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\darth.xnb
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\obisaber.xnb
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\vadersaber.xnb
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\stars.xnb
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\halfmoon.xnb
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\space.xnb
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\starwarsremoteball.xnb
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\deathstar.xnb
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\beachscene.xnb
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\yodasaber.xnb
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\renfrew.xnb
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\ballhit.xnb
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\Saberblk.xnb
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\strongam.xnb
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\darkside.xnb
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\Track  7.xnb
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\fred.xnb
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\allfolks.xnb
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Pong.exe
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Pong.pdb
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\obj\x86\Debug\Pong.exe
+E:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\obj\x86\Debug\Pong.pdb
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\football.xnb
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\quartz4.xnb
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\bat1.xnb
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\bat2.xnb
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\footballpitch.xnb
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\darth.xnb
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\obisaber.xnb
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\vadersaber.xnb
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\stars.xnb
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\halfmoon.xnb
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\space.xnb
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\starwarsremoteball.xnb
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\deathstar.xnb
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\beachscene.xnb
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\yodasaber.xnb
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\renfrew.xnb
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\ballhit.xnb
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\Saberblk.xnb
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\strongam.xnb
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\darkside.xnb
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\Track  7.xnb
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\fred.xnb
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Content\allfolks.xnb
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Pong.exe
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\bin\x86\Debug\Pong.pdb
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\obj\x86\Debug\Pong.exe
+G:\XNA\XNA4 Projects\pong\BallGame old\BallGame old\obj\x86\Debug\Pong.pdb
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\bin\x86\Debug\Content\football.xnb
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\bin\x86\Debug\Content\quartz4.xnb
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\bin\x86\Debug\Content\bat1.xnb
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\bin\x86\Debug\Content\bat2.xnb
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\bin\x86\Debug\Content\footballpitch.xnb
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\bin\x86\Debug\Content\darth.xnb
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\bin\x86\Debug\Content\obisaber.xnb
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\bin\x86\Debug\Content\vadersaber.xnb
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\bin\x86\Debug\Content\stars.xnb
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\bin\x86\Debug\Content\halfmoon.xnb
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\bin\x86\Debug\Content\space.xnb
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\bin\x86\Debug\Content\starwarsremoteball.xnb
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\bin\x86\Debug\Content\deathstar.xnb
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\bin\x86\Debug\Content\beachscene.xnb
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\bin\x86\Debug\Content\yodasaber.xnb
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\bin\x86\Debug\Content\renfrew.xnb
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\bin\x86\Debug\Content\ballhit.xnb
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\bin\x86\Debug\Content\Saberblk.xnb
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\bin\x86\Debug\Content\strongam.xnb
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\bin\x86\Debug\Content\darkside.xnb
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\bin\x86\Debug\Content\Track  7.xnb
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\bin\x86\Debug\Content\fred.xnb
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\bin\x86\Debug\Content\allfolks.xnb
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\bin\x86\Debug\Pong.exe
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\bin\x86\Debug\Pong.pdb
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\obj\x86\Debug\Pong.exe
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame old\obj\x86\Debug\Pong.pdb
