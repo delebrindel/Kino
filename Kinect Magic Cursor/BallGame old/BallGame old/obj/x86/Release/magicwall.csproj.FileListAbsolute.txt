@@ -1,0 +1,133 @@
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\bin\x86\Release\Content\football.xnb
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz4.xnb
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\bin\x86\Release\Content\bat1.xnb
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\bin\x86\Release\Content\bat2.xnb
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\bin\x86\Release\Content\footballpitch.xnb
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\bin\x86\Release\Content\darth.xnb
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\bin\x86\Release\Content\obisaber.xnb
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\bin\x86\Release\Content\vadersaber.xnb
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\bin\x86\Release\Content\stars.xnb
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\bin\x86\Release\Content\halfmoon.xnb
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\bin\x86\Release\Content\space.xnb
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\bin\x86\Release\Content\starwarsremoteball.xnb
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\bin\x86\Release\Content\deathstar.xnb
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\bin\x86\Release\Content\beachscene.xnb
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\bin\x86\Release\Content\yodasaber.xnb
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\bin\x86\Release\Content\renfrew.xnb
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\bin\x86\Release\Content\ballhit.xnb
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\bin\x86\Release\Content\Saberblk.xnb
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\bin\x86\Release\Content\strongam.xnb
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\bin\x86\Release\Content\darkside.xnb
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\bin\x86\Release\Content\Track  7.xnb
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\bin\x86\Release\Content\fred.xnb
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\bin\x86\Release\Content\allfolks.xnb
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\bin\x86\Release\magicwall.exe
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\bin\x86\Release\magicwall.pdb
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\obj\x86\Release\ResolveAssemblyReference.cache
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\obj\x86\Release\magicwall.exe
+K:\XNA\Kinect\cursor\BallGame old\BallGame old\obj\x86\Release\magicwall.pdb
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\football.xnb
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz4.xnb
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\bat1.xnb
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\bat2.xnb
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\footballpitch.xnb
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\darth.xnb
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\obisaber.xnb
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\vadersaber.xnb
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\stars.xnb
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\halfmoon.xnb
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\space.xnb
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\starwarsremoteball.xnb
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\deathstar.xnb
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\beachscene.xnb
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\yodasaber.xnb
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\renfrew.xnb
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\ballhit.xnb
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\Saberblk.xnb
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\strongam.xnb
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\darkside.xnb
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\Track  7.xnb
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\fred.xnb
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\allfolks.xnb
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\bin\x86\Release\magicwall.exe
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\bin\x86\Release\magicwall.pdb
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\obj\x86\Release\ResolveAssemblyReference.cache
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\obj\x86\Release\magicwall.exe
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame old\obj\x86\Release\magicwall.pdb
+K:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz4.xnb
+K:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\obj\x86\Release\ResolveAssemblyReference.cache
+K:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\miramonte3.xnb
+K:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\miramonte9.xnb
+K:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz5.xnb
+K:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\andy1.xnb
+K:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\andy2.xnb
+K:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz1.xnb
+K:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz2.xnb
+K:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz3.xnb
+E:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\miramonte3.xnb
+E:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\miramonte9.xnb
+E:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz4.xnb
+E:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz5.xnb
+E:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\andy1.xnb
+E:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\andy2.xnb
+E:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz1.xnb
+E:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz2.xnb
+E:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz3.xnb
+E:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\obj\x86\Release\ResolveAssemblyReference.cache
+E:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\magiccursor.exe
+E:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\magiccursor.pdb
+E:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\obj\x86\Release\magiccursor.exe
+E:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\obj\x86\Release\magiccursor.pdb
+K:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\magiccursor.exe
+K:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\magiccursor.pdb
+K:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\obj\x86\Release\magiccursor.exe
+K:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\obj\x86\Release\magiccursor.pdb
+F:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\miramonte3.xnb
+F:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\miramonte9.xnb
+F:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz4.xnb
+F:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz5.xnb
+F:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\andy1.xnb
+F:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\andy2.xnb
+F:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz1.xnb
+F:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz2.xnb
+F:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz3.xnb
+F:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\magiccursor.exe
+F:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\magiccursor.pdb
+F:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\obj\x86\Release\ResolveAssemblyReference.cache
+F:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\obj\x86\Release\magiccursor.exe
+F:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\obj\x86\Release\magiccursor.pdb
+L:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\miramonte3.xnb
+L:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\miramonte9.xnb
+L:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz4.xnb
+L:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz5.xnb
+L:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\andy1.xnb
+L:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\andy2.xnb
+L:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz1.xnb
+L:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz2.xnb
+L:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz3.xnb
+L:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\magiccursor.exe
+L:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\bin\x86\Release\magiccursor.pdb
+L:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\obj\x86\Release\ResolveAssemblyReference.cache
+L:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+L:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\obj\x86\Release\magiccursor.exe
+L:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame old\obj\x86\Release\magiccursor.pdb
+C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame old\bin\x86\Release\Content\miramonte3.xnb
+C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame old\bin\x86\Release\Content\miramonte9.xnb
+C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz4.xnb
+C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz5.xnb
+C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame old\bin\x86\Release\Content\andy1.xnb
+C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame old\bin\x86\Release\Content\andy2.xnb
+C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz1.xnb
+C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz2.xnb
+C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz3.xnb
+C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame old\bin\x86\Release\magiccursor.exe
+C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame old\bin\x86\Release\magiccursor.pdb
+C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame old\obj\x86\Release\ResolveAssemblyReference.cache
+C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame old\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame old\obj\x86\Release\magiccursor.exe
+C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame old\obj\x86\Release\magiccursor.pdb

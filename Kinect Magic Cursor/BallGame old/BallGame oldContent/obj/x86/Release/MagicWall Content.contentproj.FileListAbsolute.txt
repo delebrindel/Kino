@@ -1,0 +1,5 @@
+E:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame oldContent\obj\x86\Release\ResolveAssemblyReference.cache
+K:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame oldContent\obj\x86\Release\ResolveAssemblyReference.cache
+F:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame oldContent\obj\x86\Release\ResolveAssemblyReference.cache
+L:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame oldContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame oldContent\obj\x86\Release\ResolveAssemblyReference.cache

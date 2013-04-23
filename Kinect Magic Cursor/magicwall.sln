@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "magicwall", "BallGame old\BallGame old\magicwall.csproj", "{70DE38EB-D7F0-45FD-BA78-A9E19AB4DA92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicWall Content", "BallGame old\BallGame oldContent\MagicWall Content.contentproj", "{88C23476-1203-4A90-A611-0E077ACF5900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70DE38EB-D7F0-45FD-BA78-A9E19AB4DA92}.Debug|x86.ActiveCfg = Debug|x86
+		{70DE38EB-D7F0-45FD-BA78-A9E19AB4DA92}.Debug|x86.Build.0 = Debug|x86
+		{70DE38EB-D7F0-45FD-BA78-A9E19AB4DA92}.Release|x86.ActiveCfg = Release|x86
+		{70DE38EB-D7F0-45FD-BA78-A9E19AB4DA92}.Release|x86.Build.0 = Release|x86
+		{88C23476-1203-4A90-A611-0E077ACF5900}.Debug|x86.ActiveCfg = Debug|x86
+		{88C23476-1203-4A90-A611-0E077ACF5900}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

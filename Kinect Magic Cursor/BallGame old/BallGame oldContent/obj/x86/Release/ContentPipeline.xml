@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>miramonte3.png</Source>
+      <Name>miramonte3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame old\bin\x86\Release\Content\miramonte3.xnb</Output>
+      <Time>2012-08-15T22:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>miramonte9.png</Source>
+      <Name>miramonte9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame old\bin\x86\Release\Content\miramonte9.xnb</Output>
+      <Time>2012-08-15T22:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>quartz4.png</Source>
+      <Name>quartz4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz4.xnb</Output>
+      <Time>2012-08-15T22:35:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>quartz5.png</Source>
+      <Name>quartz5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz5.xnb</Output>
+      <Time>2012-08-15T22:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>andy1.png</Source>
+      <Name>andy1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame old\bin\x86\Release\Content\andy1.xnb</Output>
+      <Time>2012-08-15T22:35:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>andy2.png</Source>
+      <Name>andy2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame old\bin\x86\Release\Content\andy2.xnb</Output>
+      <Time>2012-08-15T22:35:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>quartz1.png</Source>
+      <Name>quartz1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz1.xnb</Output>
+      <Time>2012-08-15T22:35:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>quartz2.png</Source>
+      <Name>quartz2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz2.xnb</Output>
+      <Time>2012-08-15T22:35:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>quartz3.png</Source>
+      <Name>quartz3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame old\bin\x86\Release\Content\quartz3.xnb</Output>
+      <Time>2012-08-15T22:35:50-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame oldContent\</RootDirectory>
+      <LoggerRootDirectory>C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame old\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame oldContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\xampp\htdocs\Kino\Kinect Magic Cursor\BallGame old\BallGame old\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-04-23T10:52:26.6616183-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

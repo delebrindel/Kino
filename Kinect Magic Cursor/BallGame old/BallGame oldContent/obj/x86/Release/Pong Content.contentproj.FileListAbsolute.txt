@@ -1,0 +1,6 @@
+E:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame oldContent\obj\x86\Release\ResolveAssemblyReference.cache
+F:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame oldContent\obj\x86\Release\ResolveAssemblyReference.cache
+K:\XNA\Kinect\new Kinect Pong\BallGame old\BallGame oldContent\obj\x86\Release\ResolveAssemblyReference.cache
+K:\XNA\Kinect\cursor\BallGame old\BallGame oldContent\obj\x86\Release\ResolveAssemblyReference.cache
+F:\XNA\Kinect\magic cursor\BallGame old\BallGame oldContent\obj\x86\Release\ResolveAssemblyReference.cache
+K:\XNA\Kinect\kinect magic cursor\BallGame old\BallGame oldContent\obj\x86\Release\ResolveAssemblyReference.cache
