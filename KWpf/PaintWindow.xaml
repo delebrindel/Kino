@@ -16,16 +16,20 @@
             <CheckBox VerticalAlignment="Center" IsChecked="True" Name="VPai_Ch_Seated" Checked="VPai_Ch_SeatedModeChanged" Unchecked="VPai_Ch_SeatedModeChanged">Modo Sentado</CheckBox>
             <TextBlock VerticalAlignment="Center"  Name="Status" Text="-----" FontSize="24" Margin="50"/>
             <TextBlock VerticalAlignment="Center" Name="Status2" Text="------" FontSize="24" Margin="100"/>
+            <Button Name="B_SubKinect" Content="Subir Kinect" Click="B_SubKinect_Click"></Button>
+            <Button Name="B_BajKinect" Content="Bajar Kinect" Click="B_BajKinect_Click"></Button>
         </StatusBar>
-        <StatusBar Height="135" Name="Controles" Background="White">
-            <kino:KHoverButton Time="2" Name="VPai_HB_Nuevo" DisplayTextSize="30" DisplayText="Nuevo" PathFill="Coral" Click="VPai_HB_Nuev_Click"/>
-            <kino:KHoverButton  Time="2" Name="VPai_HB_Guard" DisplayTextSize="30" DisplayText="Guardar" PathFill="DarkGoldenrod" Click="VPai_HB_Guard_Click"/>
+        <Expander Name="Expansor2"  IsEnabled="True" Expanded="Expansor2_Expanded">
+            <StatusBar>
+            <kino:KHoverButton Time="1" Name="VPai_HB_Nuevo" DisplayTextSize="30" DisplayText="Nuevo" PathFill="Coral" Click="VPai_HB_Nuev_Click"/>
+            <kino:KHoverButton  Time="1" Name="VPai_HB_Guard" DisplayTextSize="30" DisplayText="Guardar" PathFill="DarkGoldenrod" Click="VPai_HB_Guard_Click"/>
             <kino:KHoverButton  Time="1" Name="VPai_HB_Lapi" DisplayTextSize="30" DisplayText="Lápiz" PathFill="Blue" Click="VPai_HB_Lapi_Click"/>
             <kino:KHoverButton  Time="1" Name="VPai_HB_Pinc" DisplayTextSize="30" DisplayText="Pincel" PathFill="Red" Click="VPai_HB_Pinc_Click"/>
             <kino:KHoverButton  Time="1" Name="VPai_HB_Goma" DisplayTextSize="30" DisplayText="Goma" PathFill="Green" Click="VPai_HB_Goma_Click"/>
             <kino:KHoverButton  Time="1" Name="VPai_HB_Borr" DisplayTextSize="30" DisplayText="Borrar" PathFill="Chartreuse" Click="VPai_HB_Borr_Click"/>
             <kino:KHoverButton  Time="1" Name="VPai_HB_Resa" DisplayTextSize="30" DisplayText="Resalta" PathFill="Coral" Click="VPai_HB_Resa_Click"/>
-        </StatusBar>
+            </StatusBar>
+           </Expander>
         <InkCanvas Name="Dibujo" Height="600" Width="1200" Opacity="1" Cursor="Cross"/>
     </StackPanel>
 </Window>

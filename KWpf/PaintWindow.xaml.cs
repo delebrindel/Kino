@@ -398,6 +398,22 @@ namespace KWpf
             return (path);
         }
 
+        private void Expansor2_Expanded(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void B_SubKinect_Click(object sender, RoutedEventArgs e)
+        {
+            kinectSensorChooser.Kinect.ElevationAngle = kinectSensorChooser.Kinect.ElevationAngle + 4;
+        }
+
+        private void B_BajKinect_Click(object sender, RoutedEventArgs e)
+        {
+
+            kinectSensorChooser.Kinect.ElevationAngle = kinectSensorChooser.Kinect.ElevationAngle - 4;
+        }
+
 
     }
 }
