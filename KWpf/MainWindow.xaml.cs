@@ -46,12 +46,6 @@ namespace KWpf
             VMt.Show();
             this.Close();
         }
-        private void KinoHoverButtonPp_Click(object sender, EventArgs eventArgs)
-        {
-            PPControl VPp = new PPControl();
-            VPp.Show();
-            this.Close();
-        }
         private void KinoHoverButtonPia_Click(object sender, EventArgs eventArgs)
         {
             Movement VPi = new Movement();

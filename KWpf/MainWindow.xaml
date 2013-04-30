@@ -19,7 +19,6 @@
                 <kcontrols:KHoverButton DisplayTextSize="16" DisplayText="Paint" Time="1" PathFill="Red" Click="KinoHoverButtonPa_Click"/>
                 <kcontrols:KHoverButton DisplayTextSize="16" Margin="20 0 20 0" DisplayText="Speech" Time="1" PathFill="Green" Click="KinoHoverButtonSp_Click"/>
                 <kcontrols:KHoverButton DisplayTextSize="16" Margin="20 0 20 0" DisplayText="MultiTouch" Time="1" PathFill="Yellow" Click="KinoHoverButtonMt_Click"/>
-                <kcontrols:KHoverButton DisplayTextSize="16" Margin="20 0 20 0" DisplayText="PP Control" Time="1" PathFill="Blue" Click="KinoHoverButtonPp_Click"/>
             </StackPanel>
 
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">

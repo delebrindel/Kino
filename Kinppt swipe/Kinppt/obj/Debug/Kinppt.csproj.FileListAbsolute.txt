@@ -49,3 +49,16 @@ C:\Users\Darth Yoda\Dropbox\Trabajos Salle\Proyecto Terminal\Kinppt swipe\Kinppt
 C:\Users\Darth Yoda\Dropbox\Trabajos Salle\Proyecto Terminal\Kinppt swipe\Kinppt\obj\Debug\Kinppt.g.resources
 C:\Users\Darth Yoda\Dropbox\Trabajos Salle\Proyecto Terminal\Kinppt swipe\Kinppt\obj\Debug\Kinppt.Properties.Resources.resources
 C:\Users\Darth Yoda\Dropbox\Trabajos Salle\Proyecto Terminal\Kinppt swipe\Kinppt\obj\Debug\Kinppt.csproj.GenerateResource.Cache
+C:\Users\America Movil\Documents\GitHub\Kino\Kinppt swipe\Kinppt\bin\Debug\Kinppt.exe.config
+C:\Users\America Movil\Documents\GitHub\Kino\Kinppt swipe\Kinppt\obj\Debug\Kinppt.exe
+C:\Users\America Movil\Documents\GitHub\Kino\Kinppt swipe\Kinppt\obj\Debug\Kinppt.pdb
+C:\Users\America Movil\Documents\GitHub\Kino\Kinppt swipe\Kinppt\obj\Debug\Kinppt.csprojResolveAssemblyReference.cache
+C:\Users\America Movil\Documents\GitHub\Kino\Kinppt swipe\Kinppt\obj\Debug\MainWindow.baml
+C:\Users\America Movil\Documents\GitHub\Kino\Kinppt swipe\Kinppt\obj\Debug\MainWindow.g.cs
+C:\Users\America Movil\Documents\GitHub\Kino\Kinppt swipe\Kinppt\obj\Debug\App.g.cs
+C:\Users\America Movil\Documents\GitHub\Kino\Kinppt swipe\Kinppt\obj\Debug\Kinppt_MarkupCompile.cache
+C:\Users\America Movil\Documents\GitHub\Kino\Kinppt swipe\Kinppt\obj\Debug\Kinppt.g.resources
+C:\Users\America Movil\Documents\GitHub\Kino\Kinppt swipe\Kinppt\obj\Debug\Kinppt.Properties.Resources.resources
+C:\Users\America Movil\Documents\GitHub\Kino\Kinppt swipe\Kinppt\obj\Debug\Kinppt.csproj.GenerateResource.Cache
+C:\Users\America Movil\Documents\GitHub\Kino\Kinppt swipe\Kinppt\bin\Debug\Kinppt.exe
+C:\Users\America Movil\Documents\GitHub\Kino\Kinppt swipe\Kinppt\bin\Debug\Kinppt.pdb

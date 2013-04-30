@@ -2,7 +2,7 @@
 using System.Windows;
 using Coding4Fun.Kinect.Wpf;
 using Microsoft.Kinect;
-using Nui = Microsoft.Kinect;
+using System.Linq;
 using System.Windows.Media.Imaging;
 using System.Windows.Ink;
 using System.Windows.Controls;
@@ -23,10 +23,9 @@ namespace KWpf
     /// Interaction logic for MainWindow.xaml
     /// </summary>
     
-    [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Design", "CA1001:TypesThatOwnDisposableFieldsShouldBeDisposable",
-        Justification = "In a full-fledged application, the SpeechRecognitionEngine object should be properly disposed. For the sake of simplicity, we're omitting that code in this sample.")]
     public partial class PaintWindow : Window
     {
+        Skeleton[] skeletons;
         private const float ClickThreshold = 0.1f; //.2
         private const float SkeletonMaxX = 0.60f; //.6
         private const float SkeletonMaxY = 0.40f;
@@ -39,7 +38,7 @@ namespace KWpf
         {
             InitializeComponent();
             Expansor.IsExpanded = true;
-            this.Topmost = true;
+            //this.Topmost = true;
             {
                 this.Show();
                 this.Focus();
@@ -94,10 +93,9 @@ namespace KWpf
 
             sensor.SkeletonStream.Enable(parameters);
             //sensor.ColorStream.Enable(ColorImageFormat.RgbResolution640x480Fps30);
-            //sensor.DepthStream.Enable(DepthImageFormat.Resolution320x240Fps30);
             sensor.DepthStream.Enable(DepthImageFormat.Resolution80x60Fps30);
-
-            sensor.AllFramesReady += new EventHandler<AllFramesReadyEventArgs>(sensor_AllFramesReady);
+            sensor.SkeletonStream.Enable();
+            sensor.SkeletonFrameReady += new EventHandler<SkeletonFrameReadyEventArgs>(sensor_SkeletonFrameReady);
             try
             {
                 sensor.Start();
@@ -110,12 +108,6 @@ namespace KWpf
             Dibujo.UseCustomCursor = true;
             Dibujo.Cursor = Cursors.Cross;
             Dibujo.DefaultDrawingAttributes = inkAttributes;
-        }
-
-        void sensor_AllFramesReady(object sender, AllFramesReadyEventArgs e)
-        {
-            sensor_DepthFrameReady(e);
-            sensor_SkeletonFrameReady(e);
         }
 
 
@@ -149,35 +141,39 @@ namespace KWpf
             }
         }
 
-        void sensor_SkeletonFrameReady(AllFramesReadyEventArgs e)
+        void sensor_SkeletonFrameReady(object sender, SkeletonFrameReadyEventArgs e)
         {
 
-            using (SkeletonFrame skeletonFrameData = e.OpenSkeletonFrame())
+            using (var skeletonFrame = e.OpenSkeletonFrame())
             {
-                if (skeletonFrameData == null)
+                if (skeletonFrame == null)
                 {
                     return;
                 }
-
-                Skeleton[] allSkeletons = new Skeleton[skeletonFrameData.SkeletonArrayLength];
-
-                skeletonFrameData.CopySkeletonDataTo(allSkeletons);
-
-
-                foreach (Skeleton sd in allSkeletons)
+                if (skeletons == null ||
+                    skeletons.Length != skeletonFrame.SkeletonArrayLength)
                 {
-                    // the first found/tracked skeleton moves the mouse cursor
-                    if (sd.TrackingState == SkeletonTrackingState.Tracked)
-                    {
+                    skeletons = new Skeleton[skeletonFrame.SkeletonArrayLength];
+                }
+                
+                skeletonFrame.CopySkeletonDataTo(skeletons);
+                Skeleton cercano=(from s in skeletons
+                                            where s.TrackingState == SkeletonTrackingState.Tracked &&
+                                                  s.Joints[JointType.Head].TrackingState == JointTrackingState.Tracked
+                                            select s).OrderBy(s => s.Joints[JointType.Head].Position.Z)
+                                                    .FirstOrDefault();
+
+                {
+
                         // make sure both hands are tracked
-                        if (sd.Joints[JointType.HandLeft].TrackingState == JointTrackingState.Tracked &&
-                            sd.Joints[JointType.HandRight].TrackingState == JointTrackingState.Tracked)
+                        if (cercano.Joints[JointType.HandLeft].TrackingState == JointTrackingState.Tracked &&
+                            cercano.Joints[JointType.HandRight].TrackingState == JointTrackingState.Tracked)
                         {
                             int cursorX, cursorY;
 
                             // get the left and right hand Joints
-                            Joint jointRight = sd.Joints[JointType.HandRight];
-                            Joint jointLeft = sd.Joints[JointType.HandLeft];
+                            Joint jointRight = cercano.Joints[JointType.HandRight];
+                            Joint jointLeft = cercano.Joints[JointType.HandLeft];
 
                             // scale those Joints to the primary screen width and height
                             Joint scaledRight = jointRight.ScaleTo((int)SystemParameters.PrimaryScreenWidth, (int)SystemParameters.PrimaryScreenHeight, SkeletonMaxX, SkeletonMaxY);
@@ -221,7 +217,6 @@ namespace KWpf
 
                             return;
                         }
-                    }
                 }
             }
 

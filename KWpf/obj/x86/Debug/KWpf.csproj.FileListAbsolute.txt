@@ -206,3 +206,43 @@ C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\KWpf.exe.manifest
 C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\KWpf.application
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\bin\Debug\KWpf.exe.config
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\KWpf.csproj.ResolveComReference.cache
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\KWpf.exe
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\KWpf.pdb
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\bin\Debug\KWpf.exe.manifest
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\bin\Debug\KWpf.application
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\bin\Debug\KWpf.exe
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\bin\Debug\KWpf.pdb
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\bin\Debug\KBasic.pdb
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\bin\Debug\KControls.pdb
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\bin\Debug\NAudio.xml
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\KWpf.csprojResolveAssemblyReference.cache
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\ArduinoC.baml
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\Instrument.baml
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\MainWindow.baml
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\Movement.baml
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\PaintWindow.baml
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\Sound.baml
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\Speech.baml
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\MTouch.baml
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\ArduinoC.g.cs
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\Instrument.g.cs
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\MainWindow.g.cs
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\Movement.g.cs
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\PaintWindow.g.cs
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\Sound.g.cs
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\Speech.g.cs
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\MTouch.g.cs
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\App.g.cs
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\KWpf_Content.g.cs
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\KWpf_MarkupCompile.cache
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\KWpf.g.resources
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\KWpf.Properties.Resources.resources
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\KWpf.csproj.GenerateResource.Cache
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\KWpf.exe.manifest
+C:\Users\America Movil\Documents\GitHub\Kino\KWpf\obj\x86\Debug\KWpf.application

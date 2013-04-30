@@ -123,9 +123,6 @@
     <Compile Include="Sound.xaml.cs">
       <DependentUpon>Sound.xaml</DependentUpon>
     </Compile>
-    <Compile Include="PPControl.xaml.cs">
-      <DependentUpon>PPControl.xaml</DependentUpon>
-    </Compile>
     <Compile Include="Speech.xaml.cs">
       <DependentUpon>Speech.xaml</DependentUpon>
     </Compile>
@@ -161,10 +158,6 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Sound.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="PPControl.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
