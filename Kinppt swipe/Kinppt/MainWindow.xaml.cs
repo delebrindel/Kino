@@ -14,7 +14,6 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Microsoft.Kinect;
-using System.Threading;
 using System.IO;
 using System.Speech.Recognition;
 using System.Speech.AudioFormat;
@@ -22,6 +21,8 @@ using System.Diagnostics;
 using System.Windows.Threading;
 using Microsoft.Kinect.Toolkit;
 using Microsoft.Samples.Kinect.WpfViewers;
+//using System.Runtime.InteropServices;
+
 
 
 
@@ -206,6 +207,7 @@ namespace Kinppt
                         }
  
                 ProcessForwardBackGesture(head, rightHand, leftHand, leftShoulder, rightShoulder);
+                
             }
         }
 
@@ -214,16 +216,23 @@ namespace Kinppt
             public float X;
             public float Y;
             public float Z;
+            public float XL;
+            public float YL;
+            public float ZL;
             public DateTime date;
         }
         public enum Gesture
         {
             None,
-            Swipe
+            Swipe,
+            Push,
+            Pull
         }
 
         List<Vector3> positionListRight = new List<Vector3>();
         List<Vector3> positionListLeft = new List<Vector3>();
+        List<Vector3> positionListUp = new List<Vector3>();
+        List<Vector3> positionListDown = new List<Vector3>();
         List<Gesture> gestureAcceptedList = new List<Gesture>();
         const float SwipeMinimalLength = 0.2f; //longitud máxima del movimiento swipe original era .4
         const float SwipeMaximalHeight = 0.1f; //altura máxima del movimiento desde inicio hasta fin
@@ -233,13 +242,16 @@ namespace Kinppt
         int MinimalPeriodBetweenGestures = 0; //ms transcurridos entre dos gestos
         bool adelante = false;
         bool atras = false;
-
-
+        bool presiona = false;
+        bool jala = false;
+        
+        //PROCESAR GESTOS 
 
         private void ProcessForwardBackGesture(Joint head, Joint rightHand, Joint leftHand, Joint leftShoulder, Joint rightShoulder)
         {
-
-            if (!atras && !adelante)
+            //PROCESAR GESTO ADELANTE
+            System.Windows.Forms.MouseEventArgs e;
+            if (!atras && !adelante && !jala && !presiona)
             {
 
                 positionListRight.Add(new Vector3()
@@ -265,7 +277,9 @@ namespace Kinppt
                 adelante = false;
             }
 
-            if (!atras && !adelante)
+            //PROCESAR GESTO ATRÁS
+
+            if (!atras && !adelante && !jala && !presiona)
             {
                 positionListLeft.Add(new Vector3()
            {
@@ -289,7 +303,100 @@ namespace Kinppt
             {
                 atras = false;
             }
+
+            
+            //GESTO RUEDA HACIA ADELANTE
+
+            if (!atras && !adelante && !jala && !presiona)
+            {
+                if (zurdo.IsChecked.Value.Equals(true))
+                {
+                    positionListUp.Add(new Vector3()
+                    {
+                        XL = leftHand.Position.X,
+                        YL = leftHand.Position.Y,
+                        ZL = leftHand.Position.Z,
+                        date = DateTime.Now
+                    });
+                    //MessageBox.Show("MODO ZURDO");
+                }
+                else
+                {
+                    positionListUp.Add(new Vector3()
+                    {
+
+                        X = rightHand.Position.X,
+                        Y = rightHand.Position.Y,
+                        Z = rightHand.Position.Z,
+                        date = DateTime.Now
+                    });
+                    //MessageBox.Show("MODO DIESTRO");
+                }
+                if (Push())
+                {
+                    presiona = true;
+                    //ARREGLAR PARA QUE SEA CLICK+DESPLAZAMIENTO HACIA ARRIBA Y NO DOWN
+                   // System.Windows.Forms.SendKeys.SendWait("{UpLeft 50,-50}");
+                    //System.Windows.Forms.SendKeys.SendWait("{UpLeft 50,-20}");
+
+                }
+                if (positionListUp.Count() > 20)
+                {
+                    positionListUp.RemoveAt(0);
+                }
+            }
+            else
+            {
+                presiona = false;
+            }
+
+            //GESTO RUEDA HACIA ATRAS
+
+            if (!atras && !adelante && !jala && !presiona)
+            {
+                if (zurdo.IsChecked.Value.Equals(true))
+                {
+                    positionListDown.Add(new Vector3()
+                    {
+                        XL = leftHand.Position.X,
+                        YL = leftHand.Position.Y,
+                        ZL = leftHand.Position.Z,
+                        date = DateTime.Now
+                    });
+                }
+                else
+                {
+                    positionListDown.Add(new Vector3()
+                    {
+
+                        X = rightHand.Position.X,
+                        Y = rightHand.Position.Y,
+                        Z = rightHand.Position.Z,
+                        date = DateTime.Now
+                    });
+                }
+                if (Pull())
+                {
+                    jala = true;
+                    //ARREGLAR SENDKEYS PARA QUE SEA CLICK+DESPLAZAMIENTO HACIA ABAJO Y NO UP
+                    System.Windows.Forms.SendKeys.SendWait("{UpLeft 50,-20}");
+                    System.Windows.Forms.SendKeys.SendWait("{UpLeft 50,-50}");
+
+                }
+                if (positionListDown.Count() > 20)
+                {
+                    positionListDown.RemoveAt(0);
+                }
+            }
+            else
+            {
+                jala = false;
+            }
+
+
         }
+        
+        //MÉTODO ADELANTE
 
       bool SwipeAdvance()
         {
@@ -318,6 +425,7 @@ namespace Kinppt
             return false;
         }
 
+        //MÉTODO ATRÁS
 
         bool SwipeBack()
         {
@@ -338,6 +446,63 @@ namespace Kinppt
                             gestureAcceptedList.Add(Gesture.Swipe);
                             lastGestureDate = DateTime.Now;
                             positionListLeft.Clear();
+                            return true;
+                        }
+                    }
+                }
+            }
+            return false;
+        }
+
+        //MÉTODO SCROLL MOUSE ADELANTE(ARRIBA)
+
+        bool Push(){
+            int start = 0;
+            for (int index = 0; index < positionListUp.Count - 1; index++)
+            {
+                if ((Math.Abs(positionListUp[0].Y - positionListUp[index].Y) > SwipeMaximalHeight) || (positionListUp[index + 1].Z - positionListUp[index].Z > -0.01f))
+                {
+                    start = index;
+                }
+                if ((Math.Abs(positionListUp[index].Z - positionListUp[start].Z) > SwipeMinimalLength))
+                {
+                    double totalMilliseconds = (positionListUp[index].date - positionListUp[start].date).TotalMilliseconds;
+                    if (totalMilliseconds >= SwipeMinimalDuration && totalMilliseconds <= SwipeMaximalDuration)
+                    {
+                        if (DateTime.Now.Subtract(lastGestureDate).TotalMilliseconds > MinimalPeriodBetweenGestures)
+                        {
+                            gestureAcceptedList.Add(Gesture.Push);
+                            lastGestureDate = DateTime.Now;
+                            positionListUp.Clear();
+                            return true;
+                        }
+                    }
+                }
+            }
+               return false;
+
+        }
+
+        //MÉTODO SCROLL MOUSE ATRÁS(ABAJO)
+
+        bool Pull() {
+            int start = 0;
+            for (int index = 0; index < positionListUp.Count - 1; index++)
+            {
+                if ((Math.Abs(positionListDown[0].Y - positionListDown[index].Y) > SwipeMaximalHeight) || (positionListDown[index + 1].Z - positionListDown[index].Z < -0.01f))
+                {
+                    start = index;
+                }
+                if ((Math.Abs(positionListDown[index].Z - positionListDown[start].Z) > SwipeMinimalLength))
+                {
+                    double totalMilliseconds = (positionListDown[index].date - positionListDown[start].date).TotalMilliseconds;
+                    if (totalMilliseconds >= SwipeMinimalDuration && totalMilliseconds <= SwipeMaximalDuration)
+                    {
+                        if (DateTime.Now.Subtract(lastGestureDate).TotalMilliseconds > MinimalPeriodBetweenGestures)
+                        {
+                            gestureAcceptedList.Add(Gesture.Pull);
+                            lastGestureDate = DateTime.Now;
+                            positionListDown.Clear();
                             return true;
                         }
                     }

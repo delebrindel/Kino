@@ -16,7 +16,9 @@
                 <Button Content="Centrar Kinect" Height="Auto" HorizontalAlignment="Center" VerticalAlignment="Center" Name="VP_B_CentrarKin" Margin="200 0 0 0" Click="ButtonCenterClick" />
                 <Button Content="Bajar Kinect" Height="Auto" HorizontalAlignment="Right" VerticalAlignment="Center" Name="VP_B_BajarKin" Margin="225 0 0 0" Click="ButtonDownClick" />
             </StatusBar>
-        <Slider Height="Auto" HorizontalAlignment="Left" Margin="737,376,0,0" Name="slider1" VerticalAlignment="Bottom" Width="26" Orientation="Horizontal" Maximum="27" Minimum="-27" Interval="1" SmallChange="1" IsSnapToTickEnabled="True" />
+            <CheckBox Height="Auto" HorizontalAlignment="Left" Margin="718,0,0,4" Name="zurdo" VerticalAlignment="Bottom" Width="26" />
+            <Label Margin="734,479,10,-2">Zurdo</Label>
+
         </Grid>
     
     </Viewbox>

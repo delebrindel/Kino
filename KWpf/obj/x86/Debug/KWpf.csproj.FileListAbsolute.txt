@@ -206,3 +206,8 @@ C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\KWpf.exe.manifest
 C:\xampp\htdocs\Kino\KWpf\obj\x86\Debug\KWpf.application
+C:\Users\CTIN\Documents\GitHub\Kino\KWpf\bin\Debug\KWpf.exe.config
+C:\Users\CTIN\Documents\GitHub\Kino\KWpf\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\CTIN\Documents\GitHub\Kino\KWpf\obj\x86\Debug\KWpf.csproj.ResolveComReference.cache
+C:\Users\CTIN\Documents\GitHub\Kino\KWpf\obj\x86\Debug\KWpf.exe
+C:\Users\CTIN\Documents\GitHub\Kino\KWpf\obj\x86\Debug\KWpf.pdb
